@@ -1,0 +1,501 @@
+#	OVR	PLAYER	PTS	AVG	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	STATUS	BYE	SALARY	YEAR(S)
+1	1	Manning, Peyton DEN QB	524	34.93	62.6	29	40.2	44.6	52	18.6	30.2	30.4	B	38	16	12.6	41.6	44	22.8	41.4	Free Agent	9	$0.60 	1
+2	2	Charles, Jamaal KCC RB	435.9	29.06	23.7	27	35.2	26.3	27.4	34.2	24.5	21.1	18.5	B	13.5	35.5	27.3	35.6	58.1	28	Free Agent	10	$0.60 	1
+3	3	Brees, Drew NOS QB	434.3	28.95	29	11.2	39.8	48	31.6	15.8	B	49.6	20.8	49	19.6	27	9.2	42.1	25.7	15.9	Free Agent	7	$0.60 	1
+4	4	McCoy, LeSean PHI RB	383.1	25.54	36.1	24.9	27.8	15.6	25.2	23.6	16.7	13	19.9	25.1	34	B	20.8	43.4	17.2	39.8	Jim's Team - Trade	12	$16.80 	1
+5	5	Rivers, Philip SDC QB	371.1	24.74	27.9	44.6	18.8	40.8	25.6	17.8	24.6	B	22.8	17.9	17.9	37.5	14.9	29	20.6	10.4	Free Agent	8	$0.60 	1
+6	6	Forte, Matt CHI RB	355	23.67	22.4	26.6	24.8	24.5	17.4	20.9	34.6	B	36.2	10.8	26.6	18.9	24.2	35	21.9	10.2	Holmes Family Jules - Trade	8	$10.20 	2
+7	7	Newton, Cam CAR QB	353.1	23.54	19	19.5	36.5	B	2.1	43.8	23.9	39.3	20.8	4	38	20	31.8	21.5	21.5	11.4	Ryan - Trade (P)	4	$3.50 	3
+8	8	Dalton, Andy CIN QB	340.3	22.69	24.5	16.8	19.7	3.1	13.4	34.5	37.2	41	4.8	12.1	13.2	B	12.8	40.1	23.1	44	Suburban Thugs	12	$1.75 	3
+9	9	Wilson, Russell SEA QB	338.7	22.58	22.7	12	29.7	11.2	26.6	24.7	27	19.3	29.3	29.9	25.7	B	42.2	11.2	21.1	6.1	Just Win Baby - Trade	12	$2.60 	4
+10	10	Romo, Tony DAL QB	337.7	22.51	26.4	20.3	29	28.8	53.5	9.8	13.4	23.9	27.3	6.6	B	19.1	19	21.2	20.4	19	Free Agent (P)	11	$0.60 	1
+11	11	Moreno, Knowshon DEN RB	331.2	22.08	10.8	29.3	7.9	20.5	31.8	36.9	15.4	27.8	B	20.9	14.8	41.9	21.5	26.2	10.1	15.4	davyhouse - Trade (Q)	9	$1.00 	1
+12	12	Luck, Andrew IND QB	326.8	21.79	34.7	21.1	17.3	22.7	20.3	7.7	35.4	B	24.8	13.3	23	12	9.5	42.5	20.9	21.6	O'Keefe - Trade	8	$4.80 	3
+13	13	Lynch, Marshawn SEA RB	325.3	21.69	11.1	40.6	11.8	24.2	17.1	36.7	22.1	4.8	25.3	32.4	30.2	B	10.9	17.2	27.7	13.2	Just Win Baby - Trade (P)	12	$11.60 	2
+14	14	Roethlisberger, Ben PIT QB	319.7	21.31	11.8	11.6	19.2	20.6	B	23.4	19.2	13.3	30.6	11	43	22.6	25.6	29.9	15.6	22.3	Free Agent	5	$0.60 	1
+15	15	Smith, Alex KCC QB	318.5	21.23	23.2	29	17.2	28.9	5.5	5.6	20.2	29.6	7.9	B	22.4	30.2	27.8	21	46.4	3.6	Free Agent	10	$0.60 	1
+16	16	Foles, Nick PHI QB	318.3	26.53		-0.6		8.4	21.5	40	0.4		66.4	32.1	27.2	B	32.5	19.8	40.8	29.8	Free Agent	12	$0.60 	1
+17	17	Ryan, Matt ATL QB	308.8	20.59	25.1	34	18.4	27.4	30.6	B	33.8	5.4	10	16.8	13.4	20.1	17.8	13.2	14.8	28	Free Agent	6	$0.60 	1
+18	18	Peterson, Adrian MIN RB	300.5	21.46	35.2	15.9	25	32.6	B	13.8	10.7	19.9	33.7	26.2	12.2	28.2	35.1	3.6		8.4	Plummer - Trade (P)	5	$17.00 	2
+19	19	Stafford, Matthew DET QB	299.6	19.97	27.6	22.9	25.1	19.4	17.6	31.5	29.6	32.4	B	21	18.8	18.2	24.2	1.2	5.3	4.8	Free Agent	9	$0.60 	1
+20	20	Murray, DeMarco DAL RB	292.9	22.53	23	14.8	37	16	14.7	15.4			10.3	20.7	B	19.4	36.6	25.1	29.4	30.5	Don - Trade	11	$10.20 	1
+21	21	Lacy, Eddie GBP RB	291.7	20.84	15	1.7		B	15.5	20.1	26.7	27	28.4	17.2	15.1	34.3	7.9	23	33.3	26.5	Don - Trade	4	$4.40 	2
+22	22	Brady, Tom NEP QB	289.5	19.3	16.2	9.4	23.4	27	0	15.3	0.4	9.2	44.6	B	20.8	33	28.2	26.4	24.4	11.2	Canavan - Trade	10	$19.00 	1
+23	23	Johnson, Calvin DET WR	288.7	20.62	6.2	28.1	24	13.4		5	35	47.4	B	25.3	34.9	18	21.6	7.7	14.8	7.3	Plummer - Trade	9	$13.60 	2
+24	24	Kaepernick, Colin SFO QB	288.3	19.22	42.1	2.2	0.7	19	9.5	17.2	24.7	32.6	B	1.3	15.5	32.3	22.6	13	28.1	27.5	Jim's Team - Trade	9	$5.60 	2
+25	25	Gordon, Josh CLE WR	287.2	22.09			31	11.1	18.1	19.8	3.6	22.7	8.1	B	22	41.7	45.6	30.2	15.2	18.1	Suburban Thugs (P)	10	$2.00 	2
+26	26	Brown, Antonio PIT WR	279.1	18.61	12.7	10.7	38.6	20	B	16.1	10	14.6	16.6	15.9	32.4	19.4	10.4	22.8	23.4	15.5	Jim's Team - Trade	5	$10.00 	1
+27	27	Tannehill, Ryan MIA QB	275.3	18.35	16.3	19.6	20	11.4	16.2	B	14.5	9.3	17.7	20.7	18	23.1	27.7	30.4	33.4	-3	Don - Trade	6	$3.40 	4
+28	28	Thomas, Demaryius DEN WR	271.7	18.11	32.1	9.2	16.9	28.1	9.7	10.3	17.2	18.5	B	34.3	16.6	13.1	13.6	20.3	8	23.8	Free Agent	9	$0.60 	1
+29	29	Green, A.J. CIN WR	270.5	18.03	35.2	8.1	14.1	10.1	10.6	19.8	26.5	14.5	22.3	27.6	1.7	B	17.8	17.7	17.3	27.2	Holmes Family Jules - Trade	12	$5.00 	1
+30	30	Johnson, Chris TEN RB	269.7	17.98	14	17.7	15.9	7.6	19	9.8	21.3	B	38.1	10.2	26.5	15.1	24.7	13.4	20.7	15.7	Free Agent (P)	8	$0.60 	1
+31	31	Marshall, Brandon CHI WR	267.1	17.81	21.9	22.8	8.2	15.9	11.5	28.2	12	B	23.2	31.4	7.7	25.7	8.5	17.5	20	12.6	Just Win Baby - Trade	8	$11.60 	2
+32	32	Graham, Jimmy NOS TE	266.4	17.76	14	31.9	32.9	25	21	0	B	17.2	29.6	9.9	9.6	19.5	12.7	21.8	4.5	16.8	Canavan - Trade	7	$11.00 	2
+33	33	Jeffery, Alshon CHI WR	265.8	17.72	8.2	5.5	10.1	25.6	36.3	5.9	17	B	16.3	20.3	17.1	8.3	46.1	19.1	16.9	13.1	Just Win Baby - Trade	8	$2.00 	3
+34	34	Bush, Reggie DET RB	265	20.38	34.3	11.7		32.9	14	27.9	17.4	26.4	B	18.1	6.8	16.5	31.2		22	5.8	Free Agent	9	$0.60 	1
+35	35	Seahawks, Seattle SEA Def	264	17.6	15	30	17	23	14	17	16	16	5	12	24	B	18	9	29	19	Suburban Thugs	12	$3.20 	1
+36	36	Jackson, Fred BUF RB	258.6	17.24	18.9	19.4	15.3	19.9	29.7	10.8	20.2	16.8	16.1	11.1	7.8	B	24.5	7.8	15.2	25.1	Free Agent	12	$0.60 	1
+37	37	Chiefs, Kansas City KCC Def	258	17.2	28	14	32	20	23	32	13	9	27	B	4	1	6	19	27	3	Free Agent	10	$0.60 	1
+38	38	Mathews, Ryan SDC RB	257.6	17.17	15.6	10.3	10	18.6	1.4	16.6	23.2	B	5.8	15.9	22.1	17.8	16	29.3	28.6	26.4	Canavan - Trade	8	$2.60 	1
+39	39	Griffin III, Robert WAS QB	257.5	19.81	24	30.7	13.9	16	B	11.4	34	0.9	15.8	37.8	23.8	6	33.2	10			Plummer - Trade	5	$4.20 	3
+40	40	Gore, Frank SFO RB	256.6	17.11	18.7	5.8	16.5	23.8	19	18.1	30.2	23	B	17	10.2	7	11.9	15.9	15.5	24	Jim's Team - Trade	9	$6.00 	2
+41	41	Bryant, Dez DAL WR	250.7	16.71	5.7	27.6	13.3	24.6	27.6	7.1	19	21.5	10.4	5.4	B	16.1	16.1	8.7	30.8	16.8	Free Agent	11	$0.60 	1
+42	42	Jackson, DeSean PHI WR	250.7	16.71	22.9	32.8	9.2	5.4	24.7	21.9	4.6	11.8	25	16.5	12.2	B	6.1	15.6	34	8	Free Agent	12	$0.60 	1
+43	43	Decker, Eric DEN WR	249.6	16.64	4.7	15.7	26.3	12.3	15.2	9	27.5	7.7	B	8.2	11.6	1.5	46.9	24.2	6.2	32.6	Suburban Thugs	9	$5.20 	1
+44	44	Johnson, Andre HOU WR	248.3	16.55	24.1	13.1	7.6	19	6.4	15.3	12.9	B	48.4	18.7	18.6	5.6	19.1	25.9	3.8	9.8	Free Agent	8	$0.60 	1
+45	45	Bell, Le'Veon PIT RB	246.6	20.55				27.1	B	10.8	15.7	17.7	22.1	23	17.9	18.9	28.3	15	25.5	24.6	O'Keefe - Trade	5	$3.80 	2
+46	46	Palmer, Carson ARI QB	241.1	16.07	21	11.8	-1.6	9.9	6.8	18.2	14.1	19.1	B	16.8	34	28.2	20.6	24.6	17.6	0	Free Agent	9	$0.60 	1
+47	47	Panthers, Carolina CAR Def	240	16	11	9	26	B	15	16	25	12	26	19	12	11	19	2	19	18	O'Keefe - Trade	4	$0.60 	1
+48	48	Morris, Alfred WAS RB	239.5	15.97	12.3	17.1	16.3	11.8	B	18.3	15.8	20.7	25.6	22.6	16.2	9	15.5	6	10.7	21.6	davyhouse - Trade	5	$14.80 	2
+49	49	Bell, Joique DET RB	238.7	15.91	26.9	12.8	27.7	6.6	9.6	6.7	9.1	14.2	B	6.6	21	3.2	28.1	23.8	8.5	33.9	Free Agent (P)	9	$0.60 	1
+50	50	Garcon, Pierre WAS WR	238.3	15.89	10.9	27.3	16	15.9	B	11.4	9.8	9.1	23.2	23.4	12.4	9.8	8.6	6.7	24.4	29.4	Jim's Team - Trade	5	$4.60 	1
+51	51	Bernard, Giovani CIN RB	236.5	15.77	4.3	21.1	21.4	13.5	9	24	10.8	4.7	27.7	24.3	14.1	B	12.4	22.7	15.2	11.3	Suburban Thugs	12	$4.80 	2
+52	52	Stacy, Zac STL RB	233.5	17.96	0.6			0	12.6	15.6	22.1	22.6	41.2	20.5	B	20.6	12.5	12.8	28.9	23.5	Don - Trade	11	$0.80 	3
+53	53	Cardinals, Arizona ARI Def	233	15.53	13	12	7	18	30	8	9	22	B	16	14	16	7	26	18	17	Free Agent	9	$0.60 	1
+54	54	49ers, San Francisco SFO Def	227	15.13	8	10	2	17	28	20	20	16	B	16	12	17	12	12	22	15	Free Agent	9	$0.60 	1
+55	55	Bengals, Cincinnati CIN Def	227	15.13	5	15	24	10	18	10	4	29	12	18	30	B	18	0	6	28	Don - Trade	12	$1.60 	1
+56	56	Jones-Drew, Maurice JAC RB	226	16.14	9	6.3	19	5.9	15.5	19.4	9.9	23.5	B	21.1	14.8	28.7	21.8	17.6		13.5	Holmes Family Jules - Trade	9	$8.00 	1
+57	57	Nelson, Jordy GBP WR	222.8	14.85	25	20.6	15.3	B	12.7	20.3	14.2	29.3	10.2	9.6	18.2	9.3	3.4	12	15.6	7.1	Ryan - Trade	4	$5.40 	2
+58	58	Jackson, Vincent TBB WR	222.6	14.84	22.4	12.2	6.4	4.7	B	29.9	33.3	12.4	2.6	5.3	30.5	7.6	9.7	15.5	15.3	14.8	Free Agent	5	$0.60 	1
+59	59	Rams, St. Louis STL Def	222	14.8	15	4	4	8	21	35	7	13	10	31	B	19	9	7	20	19	Free Agent	11	$0.60 	1
+60	60	Flacco, Joe BAL QB	219.8	14.65	17.2	18	8.4	5.8	9.6	23	21	B	25	7.6	8.6	15.2	21	21.7	7.7	10	Free Agent	8	$0.60 	1
+61	61	Woodhead, Danny SDC RB	216.6	14.44	3.1	14.2	12.6	25.6	17.3	14.6	19.9	B	18.2	14.6	6.2	23.7	6.9	20.8	7.5	11.4	Free Agent	8	$0.60 	1
+62	62	Thomas, Pierre NOS RB	214.4	14.29	10.7	9.3	13.9	7.6	29.9	9.2	B	16.2	16.7	32.5	15.1	21	4.9	6.2	15.9	5.3	Free Agent	7	$0.60 	1
+63	63	Edelman, Julian NEP WR	210.6	14.04	24.4	16.9	8.9	17.8	6.9	9.7	7.9	1.7	1.6	B	4.7	29.5	18.1	18.9	29.9	13.7	Free Agent	10	$0.60 	1
+64	64	Jennings, Rashad OAK RB	205.8	14.7	1.1	5.2	3	19.9	7.1	3.9	B	1.2	34.1	18.2	27.9	19.9	21.2		30.9	12.2	Free Agent	7	$0.60 	1
+65	65	Rodgers, Aaron GBP QB	205.2	25.65	29.2	52.6	13.3	B	21.1	17	34.3	35.8	1.9								Free Agent	4	$0.60 	1
+66	66	Patriots, New England NEP Def	204	13.6	12	23	15	7	16	8	15	22	14	B	5	16	4	2	9	36	Canavan - Trade	10	$2.00 	1
+67	67	Boldin, Anquan SFO WR	202.2	13.48	37.3	1.7	10.7	18.5	4.1	5.3	11.4	9.6	B	3.8	17.1	25.4	17.3	14.8	7.5	17.7	Just Win Baby - Trade	9	$1.60 	2
+68	68	Bills, Buffalo BUF Def	202	13.47	19	11	7	23	7	7	20	4	9	9	28	B	9	8	18	23	Free Agent	12	$0.60 	1
+69	69	Fitzpatrick, Ryan TEN QB	197.8	19.78				8.8	19.4	5.9		B		29.5	23.9	33.7	15.8	9.5	38.5	12.8	Free Agent	8	$0.60 	1
+70	70	Williams, DeAngelo CAR RB	197.3	14.09	13.4	14.9	20.1	B	11.3	19.6	11.4	14.2	9.5	12.2	4.7	9.2		10.9	29.8	16.1	Free Agent	4	$0.60 	1
+71	71	Fitzgerald, Larry ARI WR	197.2	13.15	26.5	5.3	10.9	16.8	6.8	19.3	3.2	13.8	B	3.8	16.1	20.2	16.7	24.6	9.4	3.8	Don - Trade (P)	9	$9.00 	1
+72	72	Eagles, Philadelphia PHI Def	197	13.13	19	7	9	1	16	9	13	15	13	13	15	B	17	18	6	26	Free Agent	12	$0.60 	1
+73	73	Rice, Ray BAL RB	195.5	13.96	20.5	6.6		2.7	28.6	10.2	14.2	B	8.5	12.7	30.3	7.2	13.4	19.3	10.8	10.5	O'Keefe - Trade	8	$19.00 	1
+74	74	Allen, Keenan SDC WR	193.1	13.79		5.4	0.5	12.5	22.5	23.7	9.7	B	26.3	7.6	7	19.9	14.6	19.9	15.9	7.6	davyhouse - Trade	8	$1.20 	4
+75	75	Gonzalez, Tony ATL TE	192.8	12.85	12.1	6.8	5.9	35.9	18.2	B	5	5.1	19.1	5.4	13.3	7.3	13.2	10.5	16.7	18.3	Free Agent	6	$0.60 	1
+76	76	Buccaneers, Tampa Bay TBB Def	192	12.8	16	21	8	16	B	4	5	3	10	12	20	28	7	30	3	9	Free Agent	5	$0.60 	1
+77	77	Cutler, Jay CHI QB	191.3	19.13	22	26.8	16.6	16.5	31.9	27.9	-3.8	B		10					28.2	15.2	Free Agent	8	$0.60 	1
+78	78	Welker, Wes DEN WR	190.8	14.68	22.2	12.4	19.4	24.1	14.4	16.3	16.1	19.6	B	4.6	12.7	6.1	6.3	16.6			Jim's Team - Trade	9	$7.60 	1
+79	79	Thomas, Julius DEN TE	190.2	14.63	26.5	14.2	12.2	7.8	30.7	10.7	13.6	4.9	B	18.1	12.8			12.5	7.9	18.3	Free Agent	9	$0.60 	1
+80	80	Smith, Torrey BAL WR	188.6	12.57	13.2	14	12.7	27.1	18.1	2.2	8.6	B	12.3	14.6	12.2	9.4	19.8	4.1	10.4	9.9	Free Agent	8	$0.60 	1
+81	81	Mendenhall, Rashard ARI RB	188.5	13.46	11.1	22.4	7.4	4.8	16.4	8.2	11.3		B	6.7	13.6	18.4	14.2	14.5	26.5	13	Free Agent	9	$0.60 	1
+82	82	Dolphins, Miami MIA Def	188	12.53	22	10	8	5	15	B	12	7	30	9	11	12	22	9	8	8	Free Agent	6	$0.60 	1
+83	83	Colts, Indianapolis IND Def	187	12.47	12	10	17	28	11	6	16	B	3	7	6	5	19	0	22	25	Free Agent	8	$0.60 	1
+84	84	Davis, Vernon SFO TE	184	13.14	25.8	4		8.8	17.3	35.5	9.7	13.7	B	0.7	11.3	13	17.7	9.6	16.9	0	Just Win Baby - Trade	9	$1.80 	1
+85	85	Ellington, Andre ARI RB	183.4	13.1	2.3	15.5	8.6	8.9	14.2	20.6	3.9	28.2	B	12	5.1	12.1		16.5	23.3	12.2	Free Agent	9	$0.60 	1
+86	86	Wright, Kendall TEN WR	183.4	12.23	2.1	15.9	11.6	9.6	12.4	11.4	16.3	B	9.4	13.3	14	21.3	12.2	3.2	25	5.7	Just Win Baby - Trade	8	$3.20 	2
+87	87	Cameron, Jordan CLE TE	183.3	13.09	23.3	13.5	28.6	22.1	6.1	9.9	16.5	12.1	0.9	B	6.4	5.7	7.3	26.6	4.3		davyhouse - Trade	10	$1.00 	2
+88	88	Hartline, Brian MIA WR	182.3	12.15	23.9	10.8	14.6	6.4	9	B	11.9	6.7	5.9	9.7	11.5	12.3	26.7	14.6	11.5	6.8	Holmes Family Jules - Trade	6	$1.00 	2
+89	89	Cowboys, Dallas DAL Def	181	12.07	33	11	17	10	6	14	21	13	16	4	B	14	11	1	5	5	Free Agent	11	$0.60 	1
+90	90	McCown, Josh CHI QB	179.1	22.39							21.1	B	22.9	9	15.4	28.6	27.6	53.9		0.6	Free Agent	8	$0.60 	1
+91	91	Tate, Ben HOU RB	178	12.71	10	14.9	8.6	4.4	3.4	12.8	11	B	15	11.9	19	7.6	33.6	10.4	15.4		Free Agent (P)	8	$0.60 	1
+92	92	Cruz, Victor NYG WR	177.8	12.7	32.8	18.3	4.5	29.9	8.8	10.8	9.5	13.6	B	6.2	17	1.2	13	8.2	4		Jim's Team - Trade	9	$8.60 	1
+93	93	Hilton, T.Y. IND WR	176.8	11.79	4	17.9	2.3	9	30	8.3	4.2	B	35.1	19	7.9	7.3	8.1	1.7	13.3	8.7	davyhouse - Trade	8	$4.00 	2
+94	94	Floyd, Michael ARI WR	176.3	11.75	11.7	4.2	7.9	13.2	10.1	13.4	11.6	11	B	5.1	30.8	17.4	20.4	4.6	5.3	9.6	O'Keefe - Trade	9	$3.60 	2
+95	95	Giants, New York NYG Def	176	11.73	7	3	7	12	1	4	20	23	B	18	21	12	13	5	9	21	Free Agent	9	$0.60 	1
+96	96	Colston, Marques NOS WR	175.1	12.51	16.3	9.8	11.6	15.1	3	2.1	B	3.3		23.2	12.5	7.5	5.7	32	22.7	10.3	O'Keefe - Trade	7	$4.40 	1
+97	97	Smith, Geno NYJ QB	174.4	11.63	18.8	-3.8	26	9.8	33	2	20.8	3.4	10.7	B	-13.6	-1.7	-3.6	25.6	14.9	32.1	Free Agent	10	$0.60 	1
+98	98	Bears, Chicago CHI Def	174	11.6	13	21	32	10	2	19	4	B	12	6	19	2	10	2	17	5	Jim's Team - Trade	8	$2.00 	1
+99	99	Glennon, Mike TBB QB	173.8	14.48				3.2	B	23.1	20.8	17.2	24.4	7.6	28	24	3.3	3.8	13.6	4.8	Free Agent	5	$0.60 	1
+100	100	Wallace, Mike MIA WR	172.9	11.53	2.5	25	3.7	4.9	15.5	B	13.5	8.1	12.7	4	7.4	22.2	19.7	3.9	23	6.8	Free Agent	6	$0.60 	1
+101	101	Broncos, Denver DEN Def	171	11.4	13	15	6	9	10	14	5	30	B	8	11	18	6	8	3	15	davyhouse - Trade	9	$1.40 	1
+102	102	Richardson, Trent IND RB	169.7	11.31	12.8	15	12.1	19.1	11.2	9.3	4.5	B	8.9	6.5	9.9	6	3.4	15	24	12	Don - Trade	8	$5.00 	1
+103	103	Spiller, C.J. BUF RB	169.7	12.12	8.4	19.4	4	13.3	14.2	10.1	4.3		21.4	6.5	5.2	B	26.7	7.5	11.9	16.8	Ryan - Trade	12	$3.20 	1
+104	104	Green-Ellis, BenJarvus CIN RB	169.5	11.3	13.2	15.9	8.4	3	18.5	14.7	4.9	6	12.9	5.9	10.4	B	20	20.7	1.7	13.3	Free Agent	12	$0.60 	1
+105	105	Henne, Chad JAC QB	169	12.07	0.8	19.6	0		9	8.7	12.8	17.3	B	1.8	12	14.1	14.8	17	18.8	22.3	Free Agent	9	$0.60 	1
+106	106	Raiders, Oakland OAK Def	168	11.2	7	12	7	11	30	11	B	15	2	23	13	6	11	4	5	11	Free Agent	7	$0.60 	1
+107	107	Ravens, Baltimore BAL Def	168	11.2	9	13	19	13	11	13	10	B	7	19	7	21	4	4	15	3	Free Agent	8	$0.60 	1
+108	108	Titans, Tennessee TEN Def	168	11.2	19	14	12	29	12	18	4	B	11	13	1	10	11	0	2	12	Free Agent	8	$0.60 	1
+109	109	Cooper, Riley PHI WR	167.4	11.16	2.4	9.5	4.9	4	0	21.5	14.3	2.8	36.7	24.2	6.2	B	7.3	11.9	7.9	13.8	Free Agent	12	$0.60 	1
+110	110	Douglas, Harry ATL WR	165.9	11.06	13.3	7.8	-1.6	10.8	1.6	B	25.9	21.6	11.2	5.9	23.4	14.9	11.8	3.5	7.7	8.1	Free Agent	6	$0.60 	1
+111	111	Powell, Bilal NYJ RB	165.2	11.01	12.3	18.1	24.7	17.1	8.6	10.8	1.2	9.4	4.7	B	5.3	12.2	10.3	7.4	10.2	12.9	Free Agent	10	$0.60 	1
+112	112	Witten, Jason DAL TE	165.1	11.01	24.5	3.2	10.7	7.3	24.6	4.7	7.8	3	22.2	4.2	B	18.2	8.3	7.5	16.1	2.8	Free Agent	11	$0.60 	1
+113	113	Saints, New Orleans NOS Def	165	11	14	15	18	21	10	8	B	18	3	8	10	14	2	11	1	12	Free Agent	7	$0.60 	1
+114	114	Manning, Eli NYG QB	163.5	10.9	36	7	1.9	3.5	9	4.8	15.2	11.6	B	8	18.5	16.8	18.2	11	-9.4	11.4	Free Agent (P)	9	$0.60 	1
+115	115	Jones, Marvin CIN WR	163.1	10.87	3.3	6	11.8	0	6.9	19.7	15.2	41.7	9.6	2.1	1.6	B	2.2	14.2	13.8	15	Free Agent	12	$0.60 	1
+116	116	Clay, Charles MIA TE	162.8	10.85	9.4	20.7	6.5	14.2	13.2	B	7.2	8	6.2	5	19.5	5.2	13.7	26.7	1.6	5.7	Free Agent	6	$0.60 	1
+117	117	Jackson, Steven ATL RB	160.9	14.63	18.9	7.9				B		5	12.7	5.3	11.7	20.1	26.5	14.5	22.3	16	Free Agent	6	$0.60 	1
+118	118	Ridley, Stevan NEP RB	159.8	12.29	4.4	7.2	8	12.1		30	15.5	18.2	31.6	B	10.9	-0.8		6.8	6.5	9.4	O'Keefe - Trade	10	$1.25 	1
+119	119	Sanders, Emmanuel PIT WR	159.6	10.64	10.2	11.3	6.9	9.2	B	15	1.2	21.8	14.3	7	0.7	16.2	14.3	16	7.8	7.7	Holmes Family Jules - Trade	5	$2.40 	1
+120	120	Olsen, Greg CAR TE	159.4	10.63	9.1	19.9	8.4	B	12.4	3.9	7.2	10.1	15.6	2.4	15.2	12.9	13	9	13.8	6.5	O'Keefe - Trade	4	$2.00 	2
+121	121	Redskins, Washington WAS Def	158	10.53	15	7	11	30	B	6	11	20	12	4	5	6	8	3	10	10	Free Agent	5	$0.60 	1
+122	122	Packers, Green Bay GBP Def	157	10.47	2	8	25	B	12	13	12	5	4	7	11	10	19	13	9	7	Free Agent	4	$0.60 	1
+123	123	Sproles, Darren NOS RB	156.5	11.18	17.6	11.1	10.2	29.5	7.2	13.3	B	2	0.7	23.8	6.1		9.4	8.8	13.1	3.7	Free Agent	7	$0.60 	1
+124	124	Manuel, E.J. BUF QB	155.8	15.58	23.2	19.5	17.1	3.2	6.1					10.9	28.3	B	20.8	-2.2	28.9		O'Keefe - Trade	12	$3.00 	5
+125	125	Steelers, Pittsburgh PIT Def	155	10.33	9	4	5	1	B	17	6	14	6	13	12	29	5	11	8	15	Free Agent	5	$0.60 	1
+126	126	Gates, Antonio SDC TE	154.6	10.31	6.9	16.9	15.5	26.6	13.4	5.8	6.6	B	10.3	9.7	14.2	4.1	4.6	8.5	4.3	7.2	Free Agent	8	$0.60 	1
+127	127	Brown, Donald IND RB	154.4	10.29	0	4.9	3.6	10.2	12.7	6	11.2	B	7.1	16.3	26.7	1	17.2	6.2	5.3	26	Free Agent	8	$0.60 	1
+128	128	Browns, Cleveland CLE Def	153	10.2	9	11	16	16	15	4	1	8	15	B	13	4	5	11	23	2	Free Agent	10	$0.60 	1
+129	129	Ivory, Chris NYJ RB	153	10.93	4	8.6	1.3		4	2.4	20.7	2.8	25.5	B	19.8	6.3	11.7	18.2	9.8	17.9	Free Agent (P)	10	$0.60 	1
+130	130	Lions, Detroit DET Def	153	10.2	17	11	14	21	4	13	2	0	B	9	1	9	28	3	5	16	Free Agent	9	$0.60 	1
+131	131	Washington, Nate TEN WR	153	10.2	8.1	7.5	20.6	25	5.5	2.5	8.7	B	0	5.4	7.3	8	12.6	3.9	15.2	22.7	Free Agent	8	$0.60 	1
+132	132	Smith, Steve CAR WR	150.5	10.03	15.6	9.2	7	B	10	11.1	16.9	6.7	8.7	11.3	9.7	11.9	8.1	14.9	4	5.4	Free Agent	4	$0.60 	1
+133	133	Bennett, Martellus CHI TE	150.4	10.03	13.4	25.1	2	14.5	10.1	12.3	7.2	B	6.1	5.9	6.3	15.7	2.4	7.8	8.6	13	Jim's Team - Trade	8	$2.20 	1
+134	134	Chargers, San Diego SDC Def	150	10	7	2	6	12	8	11	17	B	13	5	11	9	11	17	8	13	Free Agent	8	$0.60 	1
+135	135	Baldwin, Doug SEA WR	149.3	9.95	15.6	6.1	10	6.4	12	7.8	2.6	2.2	18.5	11.6	13.8	B	17.2	6.6	17.6	1.3	Free Agent	12	$0.60 	1
+136	136	Tate, Golden SEA WR	148.2	9.88	8.1	2.9	17.1	3.7	15.6	6.8	11.2	24.3	4.9	21.6	3.6	B	8	11	4.5	4.9	Free Agent	12	$0.60 	1
+137	137	Miller, Lamar MIA RB	147.7	9.85	3.5	18.3	9	16.5	2.9	B	8.5	19.8	17.1	3.5	6	9.7	15.4	5.5	10.6	1.4	davyhouse - Trade	6	$2.60 	2
+138	138	Shorts, Cecil JAC WR	147.7	11.36	6.5	15.8	21.3	11.6	17.9	0	13.5	12.9	B	6.2	4.2	13.1	16.4	8.3			Don - Trade (P)	9	$2.20 	2
+139	139	Rodgers, Jacquizz ATL RB	147.4	9.83	1.2	9.7	16.9	14.7	22.6	B	24.3	3.3	5.9	11	6.2	5.9	4.6	9.1	7.4	4.6	Suburban Thugs	6	$1.40 	1
+140	140	Bradford, Sam STL QB	146.8	20.97	27.5	31.6	15.8	3	26.8	25.6	16.5				B						Free Agent (P)	11	$0.60 	1
+141	141	Jennings, Greg MIN WR	146	10.43	5.3	12.9	6.8	22.7	B	7.4	7.1	1.4	10.6	4.3		4.9	18.8	8.8	29.8	5.2	Free Agent	5	$0.60 	1
+142	142	Cotchery, Jerricho PIT WR	145.9	9.73	12.9	9.1	8.2	20.3	B	0	6.6	6.9	33.1	10.6	12.8	0	8.1	15.2	0.7	1.4	Free Agent	5	$0.60 	1
+143	143	Streater, Rod OAK WR	145.4	9.69	12.1	6.7	6.2	3.3	13.6	7.6	B	8	13.3	1.1	19.4	11.3	8.7	24.5	8.9	0.7	Free Agent	7	$0.60 	1
+144	144	Jaguars, Jacksonville JAC Def	145	9.67	9	10	8	5	3	15	3	3	B	23	4	13	15	13	11	10	Free Agent	9	$0.60 	1
+145	145	Bowe, Dwayne KCC WR	142.8	9.52	6	14.6	1.4	14.3	7	7.6	10.6	1.2	13.2	B	15.2	14.6	8.1	16.5	4.4	8.1	Free Agent	10	$0.60 	1
+146	146	Pryor, Terrelle OAK QB	142.1	14.21	26.5	13.4	24.3		31.3	12.2	B	14.4	16.2	4.1				1.3	-1.6		Free Agent	7	$0.60 	1
+147	147	Tolbert, Mike CAR RB	140.5	9.37	2.8	8.5	10.6	B	6.3	21.3	13.7	17.8	13.4	4.7	3.4	4.6	14.7	5	11.9	1.8	Free Agent	4	$0.60 	1
+148	148	Foster, Arian HOU RB	139.4	17.43	17.1	23.3	9.8	35.5	21.5	29.8	2.4	B	0								Just Win Baby - Trade	8	$16.60 	1
+149	149	Rainey, Bobby TBB RB	135.2	9.01	0	0	3.4	5.1	B	0.2		0	0	14.7	44.6	7.6	13.5	25.1	6.7	12.6	Free Agent	5	$0.60 	1
+150	150	Royal, Eddie SDC WR	133.3	9.52	16.4	31.5	4.9	6.7	2.6	0.6	15.9	B	14.6	5.1	3.5	12.2		2.8	7.6	8.9	Free Agent	8	$0.60 	1
+151	151	LaFell, Brandon CAR WR	132.6	8.84	0	3.8	19.3	B	8.2	20.3	6	4.3	12.4	8.3	16.4	5.1	11.6	4.2	10.4	2.3	Free Agent	4	$0.60 	1
+152	152	Jets, New York NYJ Def	132	8.8	17	7	12	2	7	8	17	4	12	B	1	11	6	9	4	15	Free Agent	10	$0.60 	1
+153	153	Jones, James GBP WR	131.6	10.12	0	23.3	11.9	B	21.7	2			2.7	7.4	7.5	13	10.4	4.4	12.9	14.4	Free Agent (P)	4	$0.60 	1
+154	154	Gostkowski, Stephen NEP PK	131	8.73	11	4.5	13	11.5	5	11.5	8.5	8.5	7.5	B	7	8	12	7.5	5	10.5	Don - Trade	10	$1.40 	1
+155	155	Williams, Terrance DAL WR	131	8.73	5.2	5	0	10.1	26.5	10.2	17.6	14.1	4.8	8.6	B	2	1.8	5.6	7.6	11.9	Holmes Family Jules - Trade	11	$0.60 	4
+156	156	Walker, Delanie TEN TE	130.2	9.3	6	7.5	8.9	8.9	7.3	5.4	13.2	B	2.3	15.2	22.1	8.6	1.5		16.8	6.5	Free Agent	8	$0.60 	1
+157	157	Nicks, Hakeem NYG WR	129.6	9.26	15.9	12.3	0	5.8	21.7	11	4.8	10.1	B	7.9	7.5		5.4	17.5	1	8.7	Free Agent	9	$0.60 	1
+158	158	Tucker, Justin BAL PK	129	8.6	5.5	1	11.5	6	15	3	10.5	B	5.5	8	8	12.5	18.5	1.5	22	0.5	Free Agent	8	$0.60 	1
+159	159	Moore, Denarius OAK WR	128.2	10.68	14.3	0	22.9	10.1	18.9	18.7	B	5.2	12.7	7	8.1				6.6	3.7	Free Agent	7	$0.60 	1
+160	160	Patterson, Cordarrelle MIN WR	128.2	8.55	2	8.9	7.1	1.4	B	1.3	4.6	10.1	2.8	9.7	5.3	10.4	10	24.4	15.4	14.8	Plummer - Trade	5	$3.40 	3
+161	161	Ponder, Christian MIN QB	127.2	14.13	7.1	14	21.9		B			18	22.4	22.4	2.8	18.8	-0.2				Free Agent	5	$0.60 	1
+162	162	Hopkins, DeAndre HOU WR	126.2	8.41	11.1	24.2	10.5	4.2	3.8	4.2	15.6	B	8.4	12.4	1.2	1.3	9.7	10.6	7.2	1.8	Suburban Thugs	8	$4.20 	3
+163	163	Randle, Rueben NYG WR	125.6	8.37	15.1	2.9	6	1.2	26.1	16	9	0	B	13.5	11.7	9.4	3.5	4.2	0	7	Plummer - Trade	9	$1.20 	3
+164	164	Fleener, Coby IND TE	125.3	8.35	1.2	15.9	2.8	18.2	3.5	3.1	12.8	B	10.9	7.8	17.2	15	8	7.1	0	1.8	Suburban Thugs	8	$3.00 	2
+165	165	Falcons, Atlanta ATL Def	125	8.33	7	11	12	0	4	B	14	7	8	1	2	6	6	20	23	4	Free Agent	6	$0.60 	1
+166	166	Blount, LeGarrette NEP RB	124.9	8.33	3.4	1.9	10.8	14.7	5	2.3	0.6	7.8	12.7	B	7.9	-1.3	13.3	11.5	10	24.3	Free Agent	10	$0.60 	1
+167	167	Boykin, Jarrett GBP WR	124.3	8.29	0	0	0	B	0	5.3	21.8	13.9	2.5	17.7	13.6	16	0	4.3	13.3	15.9	Free Agent	4	$0.60 	1
+168	168	Ball, Montee DEN RB	123.6	8.24	4.5	5.5	6.8	4.5	0.3	3.1	0	12.7	B	4	20.2	7.6	18.2	21.2	10	5	davyhouse - Trade	9	$4.60 	2
+169	169	Brown, Andre NYG RB	122.6	17.51									B	28.4	16.9	25.5	22.1	14.3	7.3	8.1	Canavan - Trade	9	$1.60 	1
+170	170	Vereen, Shane NEP RB	121.9	17.41	25.7									B	14.9	17.6	20	31.3	4.5	7.9	Ryan - Trade	10	$2.40 	2
+171	171	Cook, Jared STL TE	121.6	8.11	28.1	1.5	8.4	7.5	5.1	6.5	6.3	5.1	12.1	2.7	B	17.5	7.4	7.4	1.3	4.7	Free Agent	11	$0.60 	1
+172	172	Vinatieri, Adam IND PK	121.5	8.68	1.5	6	9.5	10	9	11	13	B	5.5		11.5	2	19.5	2	11	10	Free Agent	8	$0.60 	1
+173	173	Thomas, Daniel MIA RB	120.7	8.05	10	7.6	11.7	1.9	2.6	B	9.9	14.5	8.1	0.8	15.4	2.6	0	22.1	9.3	4.2	Free Agent	6	$0.60 	1
+174	174	Vikings, Minnesota MIN Def	120	8	6	21	15	12	B	1	7	2	10	5	1	3	11	14	7	5	Free Agent	5	$0.60 	1
+175	175	Brown, Marlon BAL WR	119.6	9.2	16	13.5	1.6	11.9		9.8	4.2	B	22.4	2		0.6	2.2	20.7	6.1	8.6	Free Agent	8	$0.60 	1
+176	176	Locker, Jake TEN QB	119.6	17.09	5.8	18.7	33.9	30.2			26.4	B	8.8	-4.2							Canavan - Trade (Q)	8	$2.50 	3
+177	177	Johnson, Stevie BUF WR	119.5	9.96	11.9	23.1	15.1	0.5	3.9		10.6	18.7	8.8	7.3		B	7	11.7	0.9		Free Agent	12	$0.60 	1
+178	178	Austin, Tavon STL WR	118.7	9.13	8.3	21.9	7.5	1.6	5.2	1.3	3.9	2.4	0.8	33.4	B	18.1	6.6	7.7			Suburban Thugs	11	$5.00 	3
+179	179	Amendola, Danny NEP WR	118.2	10.75	19.9				9	1.3		4	21.7	B	9	3.2	8.9	13.1	21.6	6.5	Free Agent	10	$0.60 	1
+180	180	Graham, Garrett HOU TE	116.5	8.96	11.2	11	0	16.9	3.5	4	5.8	B	7.6	3.8	22.1	5.7	5.6	19.3			Free Agent	8	$0.60 	1
+181	181	Gronkowski, Rob NEP TE	116.2	16.6							18.4	4.2	28.3	B	15.4	21	23.7	5.2			Plummer - Trade (Q)	10	$10.60 	1
+182	182	McFadden, Darren OAK RB	116	12.89	19	20.5	16.3	4.4		14	B	27.1	3.5				2.3			8.9	Holmes Family Jules - Trade	7	$8.80 	1
+183	183	Hauschka, Steven SEA PK	115.5	7.7	5	6.5	5	12	16	6	11	1	6.5	17.5	8.5	B	5	4	11	0.5	Free Agent	12	$0.60 	1
+184	184	Simpson, Jerome MIN WR	114.7	7.65	20.5	6.9	4.9	18.4	B	6	5.7	2.8	4.4	8	0.6	7.4	10.6	14.3	2.9	1.3	Free Agent	5	$0.60 	1
+185	185	White, Roddy ATL WR	114.5	8.81	3.4	4.1	3.1	5.3	7.5	B		0		3	8.6	3.9	21.8	13.9	8.8	31.1	Free Agent	6	$0.60 	1
+186	186	Folk, Nick NYJ PK	113.5	7.57	10.5	3.5	8.5	8.5	10.5	5	11.5	12	14	B	1	2	1	13	9	3.5	Free Agent	10	$0.60 	1
+187	187	Prater, Matt DEN PK	113.5	7.57	3.5	10.5	14	8.5	13	2.5	8.5	4	B	2	9.5	4	2.5	12	8	11	Free Agent	9	$0.60 	1
+188	188	Campbell, Jason CLE QB	113.4	12.6	0	-1.2						26.3	33.7	B	0.2	2.8		40.3	12.8	-1.5	Free Agent	10	$0.60 	1
+189	189	Vick, Michael PHI QB	113.1	16.16	31.2	41.8	12.2	14.8	13.6			-0.9				B				0.4	Free Agent	12	$0.60 	1
+190	190	Cassel, Matt MIN QB	112.5	14.06				23.7	B	16.3				2.4	3.2		13	17.8	38.2	-2.1	Free Agent	5	$0.60 	1
+191	191	Novak, Nick SDC PK	112.5	7.5	2	16.5	5	10.5	4	13.5	2.5	B	2.5	6	8.5	6.5	4.5	11	7.5	12	Free Agent	8	$0.60 	1
+192	192	Schaub, Matt HOU QB	111.5	12.39	35.8	21	8.6	22.5	-4.2	9.8		B			3.2			11.3		3.5	Free Agent	8	$0.60 	1
+193	193	Reece, Marcel OAK RB	111.4	7.43	1.4	7.9	13	0.5	9.1	1.4	B	2.6	3.9	5	4.6	15.8	1.5	28.9	10.7	5.1	Free Agent	7	$0.60 	1
+194	194	Dawson, Phil SFO PK	111	7.4	7	2	0.5	2.5	7	10.5	6	3	B	11	8	7.5	10	13.5	14.5	8	Free Agent	9	$0.60 	1
+195	195	Texans, Houston HOU Def	111	7.4	11	12	7	16	2	2	13	B	7	14	2	12	4	2	6	1	Free Agent	8	$0.60 	1
+196	196	Wright, Tim TBB TE	110.8	7.39	0	0	1.6	8.1	B	15.1	3.5	13.8	14.8	2.9	2.3	13	2.7	9.6	18.2	5.2	Free Agent	5	$0.60 	1
+197	197	Ginn Jr., Ted CAR WR	110.5	7.37	2	14.2	17.4	B	11.3	3.9	4.9	12	2	3.9	9	2.6	12.2	1.5	4.1	9.5	Free Agent	4	$0.60 	1
+198	198	Helu, Roy WAS RB	110.2	7.35	3.3	0.7	6	19.5	B	11.9	25.8	5.5	4.3	5.5	8.1	6.2	8.3	1.4	2	1.7	Plummer - Trade	5	$0.60 	2
+199	199	Ogbonnaya, Chris CLE RB	109.9	7.33	1.5	3.4	8.7	15.8	1.2	21	3.3	5.3	7.4	B	13.5	3.9	7.3	6.1	9.6	1.9	Free Agent	10	$0.60 	1
+200	200	Myers, Brandon NYG TE	109.3	7.29	17.6	11.4	5.8	0	5.5	0	3.5	6.7	B	0	5.2	11.9	16.1	10.6	6.7	8.3	Free Agent	9	$0.60 	1
+201	201	Woods, Robert BUF WR	109	8.38	8.3	12.8	5	19	10.4	2.4	4.4	1.2	7.9			B	5.4	4	18.7	9.5	O'Keefe - Trade (P)	12	$1.00 	4
+202	202	Crosby, Mason GBP PK	108.5	7.23	2	4.5	8.5	B	18.5	14.5	4	9.5	5	5.5	7.5	4	5.5	8.5	7	4	Free Agent	4	$0.60 	1
+203	203	Pierce, Bernard BAL RB	108.5	7.23	4.5	17	20	2.2	7.3	5.8	4.9	B	2.8	7.4	3.8	6.2	8.2	4.1	4	10.3	O'Keefe - Trade (P)	8	$0.80 	2
+204	204	Stills, Kenny NOS WR	107.1	7.14	10.6	2	0	7.3	0	14.9	B	27.5	6	15.5	2.1	3.7	0.8	4.2	8.2	4.3	Free Agent	7	$0.60 	1
+205	205	Reed, Jordan WAS TE	106.4	11.82	7.8	9.3	8.5		B	9.3	26.9	15.5	9.7	17.2	2.2						Free Agent	5	$0.60 	1
+206	206	Bailey, Dan DAL PK	106	7.07	10.5	12.5	2	1.5	10	4	4	15.5	9.5	4	B	4.5	3	2	19.5	3.5	Free Agent	11	$0.60 	1
+207	207	Chandler, Scott BUF TE	105	7	6.3	2.5	16.9	4.8	7.9	12.2	3.3	12.7	5.1	4.1	5.5	B	6.3	3.9	8.4	5.1	Free Agent	12	$0.60 	1
+208	208	Starks, James GBP RB	104.9	8.74	1.3	33.3	10.3	B				14.1	11.7	3.2	0.4	5.3	0.6	3.8	9.4	11.5	Free Agent	4	$0.60 	1
+209	209	Carpenter, Dan BUF PK	104	6.93	1.5	10.5	11	7	6.5	6.5	8	4	4.5	1.5	13	B	4	7	8.5	10.5	Free Agent	12	$0.60 	1
+210	210	Keenum, Case HOU QB	103.5	12.94							15.4	B	35.3	20.9	8.4	2.1	12.5	9.8	-0.9		Free Agent	8	$0.60 	1
+211	211	Dobson, Aaron NEP WR	103.3	9.39		14.1	10.7	2	6.4	10.8	5.9	15	28.5	B	6.8	0				3.1	Ryan - Trade (P)	10	$3.20 	3
+212	212	Miller, Heath PIT TE	102.6	7.89			5.5	11.5	B	12.9	5.7	4.4	7.8	1.1	12.2	8.1	15.1	8.1	6.5	3.7	Free Agent	5	$0.60 	1
+213	213	Feely, Jay ARI PK	101.5	6.77	3.5	13.5	0.5	6.5	9	1	11.5	7.5	B	6.5	6.5	13	1.5	0	12	9	Free Agent	9	$0.60 	1
+214	214	Avery, Donnie KCC WR	101.1	6.74	8.6	5.7	20.1	4.3	11.6	-1.4	5.8	6.2	3.7	B	3	18.6	2.7	1.2	5.3	5.7	Free Agent	10	$0.60 	1
+215	215	Jones, Julio ATL WR	100.4	20.08	15.1	31.7	20.9	16.3	16.4	B											Canavan - Trade (P)	6	$5.25 	1
+216	216	McCluster, Dexter KCC WR	100.3	7.16	6.8	2.4	0.8	15.3	0	2.6	10.8	18.4	2.1	B	9.3	11.1	8	10.6		2.1	Free Agent	10	$0.60 	1
+217	217	Suisham, Shaun PIT PK	98.7	6.58	0.5	4.5	10	5.5	B	14.5	12.5	2.5	4	9	9	8.5	1.2	2	9.5	5.5	Free Agent	5	$0.60 	1
+218	218	Kerley, Jeremy NYJ WR	98.4	8.95	6.6		4.5	10	16.8	3.4	22.7	4.7	0.6	B				13.1	3.5	12.5	Free Agent	10	$0.60 	1
+219	219	Sturgis, Caleb MIA PK	97	6.47	12	6.5	9.5	4	10	B	1.5	6	7	5.5	6	9.5	9	6	4.5	0	Free Agent	6	$0.60 	1
+220	220	Wayne, Reggie IND WR	97	13.86	22.1	8.6	10	20.5	14	12.8	9	B									Just Win Baby - Trade (P)	8	$2.40 	1
+221	221	Thompkins, Kenbrell NEP WR	95.1	8.65	7.2	6.2	18.1	23.2	3.6	13	3.1	0		B	8	10.1	2.6				davyhouse - Trade	10	$3.60 	3
+222	222	Martin, Doug TBB RB	94.7	15.78	15.8	23.2	17.3	14	B	15.8	8.6										Suburban Thugs	5	$4.60 	1
+223	223	Gano, Graham CAR PK	94.5	6.3	0.5	8	7.5	B	7	2.5	11.5	4	8	5.5	5.5	9	5.5	6.5	9.5	4	Free Agent	4	$0.60 	1
+224	224	Walsh, Blair MIN PK	94.5	6.3	6.5	7.5	7.5	10	B	2.5	0.5	5	1	8	8	13	9	7	8	1	Jim's Team - Trade	5	$1.00 	1
+225	225	Gresham, Jermaine CIN TE	94.1	6.72	7.5	11.1	2.7	7.8	5.4	1.5	9.4	8.9	5.8		9.7	B	0	13.6	0.8	9.9	Free Agent (Q)	12	$0.60 	1
+226	226	McGahee, Willis CLE RB	93.3	7.77			3	8.6	19.9	7.9	7.1	7.1	4.8	B	4.4	3	19.9	7.6		0	Free Agent	10	$0.60 	1
+227	227	Zuerlein, Greg STL PK	93	6.2	12.5	3.5	0.5	3	8	6.5	6.5	7	1.5	5.5	B	7	7.5	4.5	7.5	12	O'Keefe - Trade	11	$0.80 	2
+228	228	Sanu, Mohamed CIN WR	92.6	6.17	0.9	8.1	10.3	4.4	4.3	8.9	2.2	3.4	11.2	5.1	9.5	B	1.4	4.6	4	14.3	Free Agent	12	$0.60 	1
+229	229	Ertz, Zach PHI TE	92.1	6.14	2.1	7.8	1.5	4.8	5.8	3.3	5.3	1	13.2	0	5.1	B	22.3	0	16.2	3.7	Free Agent	12	$0.60 	1
+230	230	Celek, Brent PHI TE	91.6	6.11	13.1	0	3.3	8.2	12.2	2	1.9	3.2	10.7	1.2	5.2	B	11.9	4.4	3.5	10.8	Free Agent	12	$0.60 	1
+231	231	Bullock, Randy HOU PK	91.5	6.1	6	1	8	7	4	4.5	10.5	B	5.5	5.5	10	5	6	7	4	7.5	Free Agent	8	$0.60 	1
+232	232	Bolden, Brandon NEP RB	90.8	8.25			14.6	4.4	11.9	5.3	13.4	12	4.7	B		17.5	3.6		0	3.4	Free Agent	10	$0.60 	1
+233	233	Gould, Robbie CHI PK	90.5	6.03	6.5	3	7	7.5	2.5	9.5	9.5	B	5.5	5.5	9	1.5	6	9	4.5	4	Free Agent	8	$0.60 	1
+234	234	Pettis, Austin STL WR	90.4	6.03	3.6	19.8	9.5	9.9	19.4	2.2	3.2	5.3	2.3	0	B	0	2.1	2.9	7.6	2.6	Free Agent	11	$0.60 	1
+235	235	Rivera, Mychal OAK TE	89.9	5.99	4.1	5.7	3.6	11.9	1.5	2.5	B	0	6.6	3.7	14.4	2	5	11.6	11	6.3	Free Agent	7	$0.60 	1
+236	236	Sanders, Ace JAC WR	89.9	6.42	2.9	10.4	4	9.4	0	1.4		2.1	B	0	11.6	9.1	14.3	12	8.7	4	Free Agent	9	$0.60 	1
+237	237	Jones, Jacoby BAL WR	89.7	8.15	4.9					11.7	6.2	B	4.7	3.2	3.4	19.3	8.3	13.4	12.5	2.1	Free Agent	8	$0.60 	1
+238	238	Durham, Kris DET WR	88.5	5.9	2.1	0	4.3	8.8	11	14.3	7.6	8.9	B	7	6.7	3.6	9.8	0	1	3.4	Free Agent	9	$0.60 	1
+239	239	Miller, Zach SEA TE	88.1	6.78	6.7	3.2	13.5	1.2			14	2.4	7.9	0	9.9	B	18.1	2.3	1.3	7.6	Free Agent	12	$0.60 	1
+240	240	Little, Greg CLE WR	87.6	5.84	5.6	6.8	3.9	0	10.1	8.7	7.9	1.3	17.7	B	0.9	3.2	7.9	2.9	9.8	0.9	Ryan - Trade	10	$3.75 	2
+241	241	Hartley, Garrett FA PK	87.5	6.25	10	10.5	5	4.5	13	6.5		2.5	10	3.5	10	5	0.5	3	3.5		Free Agent	-	$0.60 	1
+242	242	Brown, Vincent SDC WR	87.2	5.81	8.8	5.1	2.1	9.1	18.2	5.1	4.6	B	2.7	6	3.2	0	2.6	6	7.9	5.8	Free Agent	8	$0.60 	1
+243	243	Givens, Chris STL WR	86.9	5.79	4.7	15.5	4.1	8.9	3.1	3.5	3.4	11.2	9	7.4	B	0	5	3.1	4.1	3.9	Suburban Thugs	11	$2.40 	2
+244	244	Moss, Santana WAS WR	86.8	5.79	9.9	12.6	13.7	0	B	6.4	0	4	3.2	2.3	6.1	4.7	3.7	6	11.9	2.3	Free Agent	5	$0.60 	1
+245	245	Flynn, Matt GBP QB	86.1	12.3			0.4	B								17.7	-4.8	19.5	36	8	Free Agent	4	$0.60 	1
+246	246	Henery, Alex PHI PK	86	5.73	6	10.5	2.5	6	15.5	4	3	0.5	3.5	7.5	3.5	B	4.5	0	11.5	7.5	Free Agent	12	$0.60 	1
+247	247	Eifert, Tyler CIN TE	84.5	5.63	8.2	9.1	1.2	5.9	9.3	2.3	12.5	3.8	2.9	8	2.5	B	1.4	4	11.8	1.6	Don - Trade (P)	12	$2.40 	3
+248	248	Succop, Ryan KCC PK	84.5	5.63	2	4	13	7	12	4.5	3	11	10	B	2	4.5	2	5	4	0.5	Free Agent	10	$0.60 	1
+249	249	Todman, Jordan JAC RB	84	5.6	4.9	1.7	6.9	0.8	2.7	0.2	1.5	0	B	8.4	2.3	6.3	7.8	11.9	25.8	2.8	Free Agent	9	$0.60 	1
+250	250	Lindell, Rian TBB PK	83.5	5.57	4	1	2	4.5	B	6	11	8.5	4.5	6	8.5	3.5	7	9.5	1	6.5	Free Agent	5	$0.60 	1
+251	251	Clemens, Kellen STL QB	83.3	9.26							-2.8	-1.4	12.7	19	B	12	11.6	2.4	21.3	8.5	Free Agent	11	$0.60 	1
+252	252	Janikowski, Sebastian OAK PK	82.5	5.5	4	9.5	1.5	1	9.5	0.5	B	1.5	8	6	2	14.5	5.5	8.5	5	5.5	Free Agent	7	$0.60 	1
+253	253	Bryant, Matt ATL PK	81.5	5.43	3	5	9	9	2	B	4	4.5	2.5	5.5	9	5.5	9	1.5	7.5	4.5	Suburban Thugs	6	$1.20 	1
+254	254	Greene, Shonn TEN RB	81.1	8.11	3.1						0.4	B	16.4	7.5	1.6	2.3	7.5	19.4	1	21.9	Free Agent (P)	8	$0.60 	1
+255	255	Cobb, Randall GBP WR	80.4	16.08	23.8	25.3	8.4	B	14.6	8.3											Canavan - Trade	4	$10.60 	2
+256	256	McGloin, Matt OAK QB	80.3	11.47							B		1.4		25.2	14.7	7.6	21.1	6	4.3	Free Agent	7	$0.60 	1
+257	257	Weeden, Brandon CLE QB	80.2	10.02	2.6	11.3			13.5	19.2	3		-0.2	B		6.1	24.7				Free Agent	10	$0.60 	1
+258	258	Bironas, Rob TEN PK	80	5.33	8.5	5.5	5	4.5	2	5.5	4	B	2	7.5	6.5	8	1	2	8	10	Free Agent	8	$0.60 	1
+259	259	Pettigrew, Brandon DET TE	79.6	5.69	-1.4	5.7	0	9.9	9.4	6.6	8.2	4.6	B	11	5.7	11.2	1.1	3.3	4.3		Free Agent	9	$0.60 	1
+260	260	Snelling, Jason ATL RB	79.6	6.12	2.7	15.4	22.8	6.5	13.2	B	3.3		0	5.9		3.4	1.3	0.9	1	3.2	Free Agent	6	$0.60 	1
+261	261	Cundiff, Billy CLE PK	79.5	5.3	3.5	7	4.5	6	10	4	8.5	5	3.5	B	4	4	2	8	5	4.5	Free Agent	10	$0.60 	1
+262	262	Hankerson, Leonard WAS WR	79.5	7.95	23.5	5.5	4.6	8.4	B	5.6	3.6	7.2	9.5	10.6	1						Free Agent (Q)	5	$0.60 	1
+263	263	Matthews, Rishard MIA WR	79.5	5.3	0	0	7.7	3.1	0	B	0	5.5	3.4	33	8.2	1.7	4.1	1	10.4	1.4	Free Agent	6	$0.60 	1
+264	264	Nugent, Mike CIN PK	79	5.27	1.5	7	0	6	7.5	8.5	10.5	3.5	9	4	9.5	B	5	3	1	3	Free Agent	12	$0.60 	1
+265	265	Bess, Davone CLE WR	78.7	5.62	8.7	7.8	12.7	4	4.5	3.6	2.6	1.7	16.4	B	0.8	7.2	5.3	2	1.4		Free Agent	10	$0.60 	1
+266	266	Scobee, Josh JAC PK	78.5	5.23	0	2	4	5	8	6.5	4	3.5	B	8.5	1	7.5	10.5	7.5	9	1.5	Free Agent	9	$0.60 	1
+267	267	Cumberland, Jeff NYJ TE	78.3	5.59	0	0	4.1	9.9	16.4	9.4	6.1	1.4		B	10.5	1.4	1.1	0	13	5	Free Agent	10	$0.60 	1
+268	268	Wright, Jarius MIN WR	77.8	5.19	0	3.1	6	1.1	B	2.5	1.8	0	5.6	5.4	20.9	0	8.3	0	13	10.1	Free Agent	5	$0.60 	1
+269	269	Avant, Jason PHI WR	76.2	5.08	-0.2	6.9	18.7	1.7	5.3	4.6	5.7	8.4	0	4	1	B	3	0	12.5	4.6	Free Agent	12	$0.60 	1
+270	270	Beasley, Cole DAL WR	76.1	5.85			1.2	4.1	13.7	7.4	9.8	1.3	11.8	2.8	B	2.8	3.9	9.5	3.4	4.4	Free Agent	11	$0.60 	1
+271	271	Ingram, Mark NOS RB	76.1	7.61	2.9	4.1					B		3.7	29.3	5.1	5.5	3.8	1.5	6.6	13.6	Free Agent	7	$0.60 	1
+272	272	Clark, Dallas BAL TE	75.8	6.32	14.2	1.8	8.1	6.4	0	17.1	8.4	B	2.4	6.6	5.1	4.4	1.3				Free Agent	8	$0.60 	1
+273	273	Brown, Josh NYG PK	75.5	5.03	3	10	0	0.5	1.5	1.5	9	16	B	3.5	6.5	4.5	4.5	1	0	14	Free Agent	9	$0.60 	1
+274	274	Hunter, Kendall SFO RB	75.2	5.01	4.6	0.2	9.1	15	4.9	8.2	1.4	11.2	B	-1.1	1.4	2.8	1.3	3.4	6.6	6.2	Jim's Team - Trade	9	$2.25 	1
+275	275	Roberts, Andre ARI WR	74.7	4.98	16.7	5.6	1.1	1.1	0	1	6.8	1.3	B	16.7	2.9	6.8	5.4	1.8	3	4.5	Free Agent	9	$0.60 	1
+276	276	Hunter, Justin TEN WR	74.4	5.72		0	9.9	8.1	0	1.3	0	B	3.3	7.1	0	22.4	1.9	20.4		0	Free Agent	8	$0.60 	1
+277	277	Fauria, Joseph DET TE	73.7	4.91	10.7	0	7	0	0	22.9	2.5	0	B	3.5	2.4	7.5	0	0	7.9	9.3	Free Agent	9	$0.60 	1
+278	278	Gibson, Brandon MIA WR	73.6	10.51	14.2	2.1	9.4	11.6	10.4	B	19	6.9									Free Agent (P)	6	$0.60 	1
+279	279	Brown, Bryce PHI RB	72.9	5.21	4.8	2.5	1.3	9.1	3.7	4	0.8	1.8	8.9	2.4	5.8	B	1.4	5.6		20.8	Holmes Family Jules - Trade	12	$1.40 	2
+280	280	Kearse, Jermaine SEA WR	72.6	4.84	11.9	0	2.7	0	9.3	3.7	2.7	0	8.8	15.5	0	B	4.1	3.5	3.6	6.8	Free Agent	12	$0.60 	1
+281	281	Burleson, Nate DET WR	72.1	9.01	13.3	9.2	16.1						B			19.4	0	3.3	8.6	2.2	Free Agent (P)	9	$0.60 	1
+282	282	Brown, Mike JAC WR	71.3	7.13	2.4					7.9	16.5	11.8	B	6	3.8		1.2	3.6	1.5	16.6	Free Agent	9	$0.60 	1
+283	283	Nelson, David NYJ WR	71.2	6.47					1.9	2.1	12	13	2.9	B	1.7	0	6.2	5.7	7.4	18.3	Free Agent	10	$0.60 	1
+284	284	Winslow, Kellen NYJ TE	70.9	6.45	18.4	3.1	0	12.8	6.6					B	2.7	5.4	4.6	9.1	2.2	6	Free Agent	10	$0.60 	1
+285	285	Bennett, Earl CHI WR	70.8	4.72	1.6	3.4	9.2	8.9	2.4	0	4.4	B	0	2	0.6	11.3	2.7	9.3	10.3	4.7	Free Agent	8	$0.60 	1
+286	286	Blackmon, Justin JAC WR	70.2	17.55					23.1	31	10.3	5.8	B								O'Keefe - Trade (S)	9	$4.40 	2
+287	287	Housler, Robert ARI TE	69.6	5.8			2.3	3.3	0	6.2	10.8	2.4	B	14.7	11.5	8.1	4.1	6.2		0	Free Agent	9	$0.60 	1
+288	288	Underwood, Tiquan TBB WR	69.2	6.29					B	0	1.6	7.7	10.4	9.4	3	24.8	8.1	0	3	1.2	Free Agent	5	$0.60 	1
+289	289	Rudolph, Kyle MIN TE	68.8	8.6	4.2	11.7	5.3	1.6	B	22.2	4.7	8.6	10.5								Free Agent	5	$0.60 	1
+290	290	Moore, Lance NOS WR	68.4	5.7	3.8	2.5	1.1				B	11.9	11.5	2.4	1.3	3.7	2.7	7	12.8	7.7	Don - Trade	7	$1.40 	2
+291	291	Akers, David DET PK	67.5	4.5	9	1.5	6.5	15	5	7	3.5	3	B	1.5	5.5	1.5	3.5	-2	3.5	3.5	Free Agent	9	$0.60 	1
+292	292	Gerhart, Toby MIN RB	66.8	4.77	0	2	2.9	1.2	B	2.3	3.2	10.5	1.1	0.6	10.8	14.2	2.1	15.9		0	Free Agent	5	$0.60 	1
+293	293	Lewis, Marcedes JAC TE	65.9	6.59				0			4.1	-1.9	B	5.9	3.8	2.8	11.1	11.7	14.4	14	Free Agent	9	$0.60 	1
+294	294	Heyward-Bey, Darrius IND WR	65.7	4.38	5.3	2	10.4	5.8	0.9	2.1	16.6	B	1.6	5.5	2	5.7	3.5	4.3	0	0	Free Agent	8	$0.60 	1
+295	295	Bush, Michael CHI RB	65.6	4.69	3.2	0.4	8.5	0	1.6	3.6		B	6.4	0.2	1.1	8.9	2.2	14.6	11.5	3.4	Holmes Family Jules - Trade	8	$1.20 	2
+296	296	Finley, Jermichael GBP TE	65.5	10.92	15.1	16	0	B	7.2	10	17.2										Free Agent (Q)	4	$0.60 	1
+297	297	Holmes, Santonio NYJ WR	65.5	6.55	2.3	8.1	25.9	3.5						B	9.1	2.2	0	8	2.9	3.5	Free Agent	10	$0.60 	1
+298	298	Holmes, Andre OAK WR	65.3	7.26						0	B	0		0	4.3	5.2	20.1	9.3	14.8	11.6	Free Agent	7	$0.60 	1
+299	299	Jacobs, Brandon FA RB	64.7	9.24		8.3	0.8	1.7	2.9	30.8					8.9	11.3					Free Agent	-	$0.60 	1
+300	300	James, Mike TBB RB	64.7	7.19	0	0	0.7	0.7	B	1.1	10.6	12.4	33.6	5.6							Free Agent (P)	5	$0.60 	1
+301	301	Kendricks, Lance STL TE	62.9	4.49	5	3.8	7.1	7.1	12.2	6.7	2.2	3.8	3.3		B	0	0	2.5	8.3	0.9	Free Agent	11	$0.60 	1
+302	302	Leonard, Brian TBB RB	62.9	4.19	0.9	0.2	2.7	3.1	B	1.3	2.9	7.6	11.3	14.8	7.5	1.3	2	4.5	1.9	0.9	Free Agent	5	$0.60 	1
+303	303	Daniels, Owen HOU TE	62.7	12.54	22.7	9.9	6.9	12.2	11			B									Canavan - Trade	8	$1.00 	1
+304	304	Carlson, John MIN TE	62.4	4.8	0	-1.8	1.3	0.9	B	2.2	1.9	0.8	4.8	21.3	10.9	6.6	9.6	3.9			Free Agent	5	$0.60 	1
+305	305	Quarless, Andrew GBP TE	62.1	4.14	0	1.7	4.1	B	0	0	0	2.8	6.4	1.3	3.3	3.7	1.2	17.1	17.6	2.9	Free Agent (P)	4	$0.60 	1
+306	306	Richardson, Daryl STL RB	61.9	8.84	18.6	14.5		5.3	8.4	3.9	2.9	8.3			B						Free Agent (P)	11	$0.60 	1
+307	307	Green, Ladarius SDC TE	61.4	4.09	0	0	6.8	0	0	3.5	6	B	2	3.5	11.6	16	12	0	0	0	Free Agent	8	$0.60 	1
+308	308	McGrath, Sean KCC TE	60.1	4.01	0	4.6	5.6	16.4	8.4	0	0.6	4	0	B	6	0	2.1	4	8.4	0	Free Agent	10	$0.60 	1
+309	309	Hillis, Peyton NYG RB	59.8	9.97							21.7	15.5	B	1.1			8.3	7.9	5.3		Free Agent (P)	9	$0.60 	1
+310	310	Robinson, Aldrick WAS WR	59	3.93	0	2.3	0	0	B	0	15.2	0	0.9	0	13.5	0	1.1	10.2	13.4	2.4	Free Agent	5	$0.60 	1
+311	311	Quick, Brian STL WR	57.7	3.85	2.6	2.5	1.2	2.2	6.5	6.9	11.7	0	5	0	B	3.4	12.6	0	0	3.1	Free Agent	11	$0.60 	1
+312	312	Hillman, Ronnie DEN RB	57.3	7.16	7	0.5	18.6	11.4	10.8	6.4	1.4		B							1.2	Plummer - Trade	9	$1.80 	2
+313	313	Forbath, Kai WAS PK	57	4.75	1.5				B	7.5	6	1.5	3.5	5.5	0	6	4	4.5	7	10	Free Agent	5	$0.60 	1
+314	314	Goodwin, Marquise BUF WR	56.4	5.13	-2.5					12.8	0	8.6	13.9	2.4	21	B	0	0	0	0.2	Free Agent	12	$0.60 	1
+315	315	Hill, Stephen NYJ WR	56.2	4.68	7.9	8.6	19.3	0	3.6	7.6	2.7	5.3	0	B	0	0	1.2				Free Agent	10	$0.60 	1
+316	316	Martin, Keshawn HOU WR	55.6	3.71	0	5.2	5.5	1.1	2.4	-0.8	0	B	0	0	10.7	2.2	3.7	11.3	2.3	12	Free Agent	8	$0.60 	1
+317	317	Cunningham, Benny STL RB	54.9	4.22	0	0.4	4	6.1	2.6	1.7			-1.3	11.9	B	22	2.5	4.4	0.4	0.2	Free Agent	11	$0.60 	1
+318	318	Davis, Knile KCC RB	54.8	3.65	3	0	4.2	0.4	0.4	0.5	0.9	4.1	0	B	4	0.5	12	13.9	13.5	-2.6	Free Agent (P)	10	$0.60 	1
+319	319	Harbor, Clay JAC TE	54.6	3.64	1	11.9	0	5.9	3.4	4.9	0	1.7	B	2.3	5.2	1.3	9.3	0	7.7	0	Free Agent	9	$0.60 	1
+320	320	Fasano, Anthony KCC TE	54	6	2.3	4.6					5.2	2.4	3	B	12.2	10.6	10.8			2.9	Free Agent	10	$0.60 	1
+321	321	Dickson, Ed BAL TE	53.3	3.55	2.3	0	0	2.7	7.1	0	3.7	B	0.8	5.3	2.6	8	2.6	7.8	3	7.4	Free Agent	8	$0.60 	1
+322	322	Randle, Joseph DAL RB	52.8	4.8				0	0	12.9	15.6	9.2	0.5	0	B	0		14.6	0	0	Suburban Thugs	11	$0.60 	3
+323	323	Turbin, Robert SEA RB	52.1	3.47	5.1	4.8	1.6	1	2.2	5.8	2.1	3.2	5.3	3.7	5.8	B	6.6	1.6	6.3	-3	Jim's Team - Trade	12	$0.60 	2
+324	324	Bradshaw, Ahmad IND RB	52	17.33	5.7	21.4	24.9					B									Free Agent (P)	8	$0.60 	1
+325	325	Graham, T.J. BUF WR	51.8	3.45	1.2	1.3	1	6.8	3.1	10.9	5.1	3.4	-2.5	1.5	15.1	B	0	0	0	4.9	Free Agent (P)	12	$0.60 	1
+326	326	Paulsen, Logan WAS TE	51	3.4	0	2.3	8.1	3.1	B	0	0	0	2.9	7.3	0	0	12.1	9.4	4.1	1.7	Free Agent	5	$0.60 	1
+327	327	Lewis, Thaddeus BUF QB	49.8	9.96						27	9.1	5.7				B	0			8	Free Agent	12	$0.60 	1
+328	328	Rice, Sidney SEA WR	49.6	6.2	5.5	2.3	22.9	2.1	1.8	2	13	0				B					Free Agent (P)	12	$0.60 	1
+329	329	Williams, Mike TBB WR	49.6	8.27	14.2	1.9	11	12.8	B		5.7	4									Free Agent (P)	5	$0.60 	1
+330	330	Doss, Tandon BAL WR	49	3.5		0	6	7.7	8.8	12.9	5.5	B	1.4	0	6.7	0	0	0	0	0	Free Agent	8	$0.60 	1
+331	331	Watson, Ben NOS TE	48.9	3.49	5.6	0	2.4	6.9	0	8.6	B	7.5	0	1.5		6.6	0	3	2.7	4.1	Free Agent	7	$0.60 	1
+332	332	Hoyer, Brian CLE QB	48.3	16.1			19.6	26.3	2.4					B							Free Agent (P)	10	$0.60 	1
+333	333	Willson, Luke SEA TE	48.3	3.22	0	0	12.1	0	4.8	3.2	3.3	0	0	2.9	1.2	B	0.7	15	4.3	0.8	Free Agent	12	$0.60 	1
+334	334	Miller, Bruce SFO RB	47	3.36	3.9	3.7	2	4.7	0.9	3.6	1.7	7.8	B	2	1.8	0	3.5	5.8	5.6		Free Agent	9	$0.60 	1
+335	335	Dray, Jim ARI TE	46.2	3.08	3.6	6.1	0	2	8.8	0.9	1.8	0	B	1.9	3.3	0	10.6	2.2	1.9	3.1	Free Agent	9	$0.60 	1
+336	336	Meachem, Robert NOS WR	46.1	3.29		0	10.4	0	0	0	B	2.5	12.3	2.7	9.8	2.8	1.2	1.8	0	2.6	Free Agent	7	$0.60 	1
+337	337	Dwyer, Jonathan PIT RB	45.9	3.28		0.4	9.2	1.1	B	2.1	1.1	2	7	7.8	2.9	2.5	0	2.4	4.8	2.6	Free Agent	5	$0.60 	1
+338	338	Brown, Ronnie SDC RB	45.8	3.05	7.6	3.4	7.6	0.9	7.1	0.7	2.5	B	0	6.4	0	4.5	0.5	2.3	2.3	0	Free Agent	8	$0.60 	1
+339	339	Crabtree, Michael SFO WR	44.5	11.12									B				8.3	7	14.5	14.7	Don - Trade	9	$2.40 	2
+340	340	Whittaker, Fozzy CLE RB	44.5	3.42	0	0	0			0	5.4	9.2	4.8	B	11.4	3.8	3.5	4.7	1.7	0	Free Agent	10	$0.60 	1
+341	341	Caldwell, Andre DEN WR	44.2	2.95	9.3	4.6	0	1	0	0.9	0	2.4	B	0	0	0	0.9	0	22.4	2.7	Free Agent	9	$0.60 	1
+342	342	Jernigan, Jerrel NYG WR	43.9	3.14	0	0	1	0	2.8	0	0	4.9	B	-3	3.6	3.9	0		12.2	18.5	Free Agent	9	$0.60 	1
+343	343	Ogletree, Kevin DET WR	43.9	2.93	0	7	5.5	6.5	3.5	1	7	0	B	0	0	0	8.5	0	0	4.9	Free Agent	9	$0.60 	1
+344	344	Whalen, Griff IND WR	43.7	5.46	0	4.3	0					B	5.2	6.1	1.6				13	13.5	Free Agent	8	$0.60 	1
+345	345	Davis, Drew ATL WR	43.1	2.87	0	0	0	0	0	B	3.4	18.2	0.7	0	0	1.2	0	10.1	0	9.5	Free Agent	6	$0.60 	1
+346	346	Johnson, Dennis HOU RB	41.7	5.21								B	5.7	3.9	0.6	13.8	4.5	2.5	3.3	7.4	Free Agent	8	$0.60 	1
+347	347	Stewart, Jonathan CAR RB	40.5	6.75				B					11.8	7.2	2.3	6.3	8	4.9			Free Agent	4	$0.60 	1
+348	348	Young, Darrel WAS RB	40.3	3.36	0	0	0	0.9	B	2.6	0.2	0	20.2	0.2	14.7				0	1.5	Free Agent	5	$0.60 	1
+349	349	Morgan, Josh WAS WR	40.1	2.86	8.6	5.9	3.9	1.1	B	1.1	0	0.8	0	0		7.7	2	2.5	5.9	0.6	Free Agent	5	$0.60 	1
+350	350	Bailey, Stedman STL WR	40	2.67	0	0	0	0	0	0	0	0	2.2	0	B	2.9	7.1	7.1	4.9	15.8	Free Agent (S)	11	$0.60 	1
+351	351	Baker, Edwin CLE RB	40	20										B					20.5	19.5	Free Agent	10	$0.60 	1
+352	352	Austin, Miles DAL WR	39.7	3.97	14.2	5.6	3.7			0	0				B	2.7	2.8	3.4	5.5	1.8	Plummer - Trade	11	$2.40 	1
+353	353	Johnson, Darius ATL WR	39.6	4.4						B	3.9	7.5	2	7.7	2.8	8.7	3.1	0	3.9		Free Agent	6	$0.60 	1
+354	354	Jones, Felix PIT RB	39.4	2.63	0	6.7	4.6	1.6	B	5.8	4.4	3.7	1.6	2.4	0.2	2.7	0	1.1	3.7	0.9	Free Agent	5	$0.60 	1
+355	355	Griffin, Ryan HOU TE	38.5	2.75	0	0	0	0	0	3.8	0	B	0	6.7		4.7	0	2	11.2	10.1	Free Agent	8	$0.60 	1
+356	356	Rogers, Da'Rick IND WR	38.4	9.6								B					0	26.7	4.5	7.2	Free Agent	8	$0.60 	1
+357	357	Robinson, Khiry NOS RB	36.3	4.03			5.6	7.1	2	13.7	B	2.3				0.6		1.3	0.2	3.5	Free Agent	7	$0.60 	1
+358	358	Scott, Da'Rel FA RB	35.5	7.1	11.9	12.2	3.4	4.1		3.9											Free Agent	-	$0.60 	1
+359	359	Tamme, Jacob DEN TE	35.5	2.37	0	0	1	0	0	0	1.7	2.5	B	0	0	14.7	1.3	8.2	1.4	4.7	Free Agent	9	$0.60 	1
+360	360	Polk, Chris PHI RB	35.2	2.51	0	0	0	13.3	0.7	0		0	0	0	0	B	0	12.3	0	8.9	Free Agent (P)	12	$0.60 	1
+361	361	Asiata, Matt MIN RB	34.6	3.46	0	0	0	0	B	0	0					0	0	0	34.6		Free Agent	5	$0.60 	1
+362	362	Brazill, LaVon IND WR	34.5	3.83						0	0	B	1.4	2.1	0	6	6.2	18.8		0	Free Agent (S)	8	$0.60 	1
+363	363	Tolzien, Scott GBP QB	34.4	11.47				B						14.4	10	10					Free Agent	4	$0.60 	1
+364	364	Cousins, Kirk WAS QB	34.1	8.53					B			-3.8						-0.4	26.2	12.1	Free Agent	5	$0.60 	1
+365	365	Battle, Jackie TEN RB	34	2.27	11.2	2.5	2	7.4	8.9	0	1.1	B	0	0	0	0	0	0	0	0.9	Free Agent	8	$0.60 	1
+366	366	Summers, Frank BUF RB	33.4	2.39	0	6.9	0	0	0	0	2.3	0.5	0.6	0	7.8	B	1.9		12.3	1.1	Free Agent	12	$0.60 	1
+367	367	Barnidge, Gary CLE TE	33.2	2.21	1.9	0	0	1.2	0.7	1.6	0	0.8	6.9	B	1.7	0	0	11.9	2.7	3.8	Free Agent	10	$0.60 	1
+368	368	Dunbar, Lance DAL RB	33	3.67		-0.2	3.4	0.9	0			3.6	4.3	0	B	7.2	13.8				Free Agent	11	$0.60 	1
+369	369	Ross, Jeremy DET WR	32.6	2.72	0	0	-1.2				0	1.7	B	4.8	2.9	0	10.1	12	0	2.3	Free Agent	9	$0.60 	1
+370	370	Harkey, Cory STL TE	32.3	2.31		1.6	0	0	2.7	6.7	2.4	0	0	2.4	B	0	0	1.4	10.4	4.7	Free Agent	11	$0.60 	1
+371	371	Sherman, Anthony KCC RB	32.2	2.15	6.9	0	2	1.1	2.8	0	2	10.3	0.9	B	0.6	1.8	1.3	0	2.5	0	Free Agent	10	$0.60 	1
+372	372	Taylor, Stepfan ARI RB	31	2.07	0	0.4	0.7	0	0	1.6	0	7.1	B	1.5	0	2.6	8.6	4.4	1.7	2.4	Free Agent	9	$0.60 	1
+373	373	Choice, Tashard IND RB	30.5	2.18	0	0.6	0.4	1.7	3.7	6.1	3.3	B	3.7	0	1		0.3		2.8	1.5	Free Agent	8	$0.60 	1
+374	374	Smith, Antone ATL RB	30.5	2.18	0	0	0	0	1	B	0	0	0	0	16.6	1.8	11.1	0		0	Free Agent	6	$0.60 	1
+375	375	Harris, Dwayne DAL WR	29.8	2.48	2.7	0.9	5.9	2.3	2.3	6	0.8	0	8.3	0.6	B	0		0			Free Agent (P)	11	$0.60 	1
+376	376	Wilson, David NYG RB	29.7	5.94	-1.7	3.1	7.6	10.9	9.8				B								Ryan - Trade (Q)	9	$3.80 	1
+377	377	Havili, Stanley IND RB	29.6	2.47	0	2.2	0.5	1.7		1.7	8.9	B	1.1	5.3	2.5		4.9	0		0.8	Free Agent	8	$0.60 	1
+378	378	Collins, Jed NOS RB	29.5	1.97	0	0	1	1.1	6.9	2.1	B	1.8	0.9	0	8	0.2	2.7	1.1	0	3.7	Free Agent	7	$0.60 	1
+379	379	Hoomanawanui, Michael NEP TE	28.6	2.38	1	0	4.6	0	0.7	9.2	0	0	2.7	B	0.7				7.8	1.9	Free Agent	10	$0.60 	1
+380	380	Taylor, Kerry JAC WR	26.9	2.99		7	0	0					B		3.5	1.7	0	0	7.2	7.5	Free Agent	9	$0.60 	1
+381	381	Franklin, Johnathan GBP RB	26.8	2.68		0	23.2	B	0.7	1.4	1.5	0	0	0	0	0					Holmes Family Jules - Trade (I)	4	$1.80 	3
+382	382	Kuhn, John GBP RB	26.7	1.91	1	0		B	0	-0.7	1.9	1.7	0	2.9	4.5	4.4	1.7	0	0.5	8.8	Free Agent	4	$0.60 	1
+383	383	Smith, Alfonso ARI RB	26.5	1.77	5.6	1.7	11.5	0	3.7	-2.6	5.5	0	B	0	0	1.1	0	0	0	0	Free Agent	9	$0.60 	1
+384	384	Brown, Jaron ARI WR	26.2	1.75	1.9	1.6	0	2.9	0	1	8.7	0	B	1.7	0	2.6	1.6	4.2	0	0	Free Agent	9	$0.60 	1
+385	385	Pitta, Dennis BAL TE	26.1	8.7								B						15.3	4.4	6.4	Free Agent	8	$0.60 	1
+386	386	Dixon, Anthony SFO RB	25.7	1.71	0	0.6	0.2	7.2	8.7	1.8	1	0.9	B	0	0	2.4	2.9	0	0	0	Free Agent	9	$0.60 	1
+387	387	Posey, DeVier HOU WR	25.5	1.96	0	0	4.4		1	0.8	5.2	B	4.8	5.9	1	1	0	1.4	0		Free Agent	8	$0.60 	1
+388	388	Bohanon, Tommy NYJ RB	24.2	1.61	3.1	3	2.1	6.2	0	0	3.8	0	2.1	B	1.5	0	0	1.1	1.3	0	Free Agent	10	$0.60 	1
+389	389	Escobar, Gavin DAL TE	24.2	1.61	1.2	1.9	8.9	0	3.5	0	0	0	0	0	B	1	0	5.2	2.5	0	Free Agent	11	$0.60 	1
+390	390	Toilolo, Levine ATL TE	24	1.71	0	0.9	6.7	0.9	9	B	0	2.1	0	0	1.1	1.1	2.2		0	0	Free Agent	6	$0.60 	1
+391	391	Bostick, Brandon GBP TE	23.5	2.14		0	0	B		0	0	0	0	12.2	3.6	3.4		4.3	0		Free Agent	4	$0.60 	1
+392	392	Williams, Kyle KCC WR	23.5	2.35	6.1	6.4	2.7	0	2	2.4	0	2.9		B	0						Free Agent (P)	10	$0.60 	1
+393	393	Benjamin, Travis CLE WR	23.2	2.9	6.9	3.2	-3	4.9	6	5.2	0	0		B							Free Agent (Q)	10	$0.60 	1
+394	394	Leach, Vonta BAL RB	23.2	1.55	8.7	2.2	4.5	0.7	0	0	2.4	B	0.9	0.6	0.8	1.1	0	0.7	0	0.6	Free Agent	8	$0.60 	1
+395	395	Williams, Damian TEN WR	23.1	2.57	2.3		1.4	9.3	-1.6	3.7	5	B	3	0						0	Free Agent	8	$0.60 	1
+396	396	Forsett, Justin JAC RB	23	2.56	6.1	1.2	0	3	0.4	4	4.3	2.1	B			1.9					Free Agent	9	$0.60 	1
+397	397	Thigpen, Marcus MIA RB	22.7	1.51	0	0	0	6	1	B	0	0.2	0	0	1.6	0.9	2.3	0.9	9.8	0	Free Agent	6	$0.60 	1
+398	398	Stokley, Brandon BAL WR	22	3.67	5.9	7.1	1.9					B				1.7	4.7	0.7			Free Agent	8	$0.60 	1
+399	399	Hemingway, Junior KCC WR	21.5	1.43	6.8	1.5	0	0	1.1	1.3	0	0	0	B	0	-3	11.7	2.1	0	0	Free Agent	10	$0.60 	1
+400	400	Jackson, Tarvaris SEA QB	21	5.25			20		0						-0.4	B			1.4		Free Agent	12	$0.60 	1
+401	401	Pead, Isaiah STL RB	20.8	2.31		3.1	12.5		0					0	B	2	3.2	0	0	0	Free Agent	11	$0.60 	1
+402	402	Gates, Clyde NYJ WR	20.7	3.45	2.7	5.7	0	3.9	0.8	7.6				B							Free Agent (P)	10	$0.60 	1
+403	403	Hawkins, Andrew CIN WR	20.5	2.93									2	0.2	1.1	B	10.3	1.2	0	5.7	Free Agent	12	$0.60 	1
+404	404	Floyd, Malcom SDC WR	20.4	10.2	5.7	14.7						B									Free Agent (Q)	8	$0.60 	1
+405	405	Salas, Greg NYJ WR	19.7	2.81									7.7	B	4.7	6.8	0.5	0	0	0	Free Agent	10	$0.60 	1
+406	406	Boyce, Josh NEP WR	19.6	2.45	0		0	3.4	0					B	0		1.6	7.9	6.7		Free Agent (P)	10	$0.60 	1
+407	407	Owusu, Chris TBB WR	19.4	2.43					B	4.8	4.7				0	0	3	0	4.6	2.3	Free Agent	5	$0.60 	1
+408	408	Ford, Jacoby OAK WR	18.7	1.34	0.7	2.7	2.6	0.5	3	2.4	B	-2.5	4.3	0	0.6	0	4.4	0	0		Free Agent	7	$0.60 	1
+409	409	Davis, Fred WAS TE	18.5	2.06	4.2	0.8		0	B	0						0	2.8	0	8.8	1.9	Free Agent (S)	5	$0.60 	1
+410	410	McDonald, Vance SFO TE	18.4	1.31	3.5	2.9	1.1	1.9	0	1.2	3	0	B	0	1.5	3.3	0	0		0	Free Agent	9	$0.60 	1
+411	411	Preston, Michael TEN WR	18.2	2.6		0	0.9	0		0		B						1.1	16.2	0	Free Agent	8	$0.60 	1
+412	412	Ballard, Jake ARI TE	17.9	2.56									B	2.5	3.9	0	0	0	8.8	2.7	Free Agent	9	$0.60 	1
+413	413	Develin, James NEP RB	17.9	1.19	0	0.9	0	2.5	0	0	0	0	0	B	0	0	9.5	4.1	0.9	0	Free Agent	10	$0.60 	1
+414	414	Britt, Kenny TEN WR	17.6	1.47	2.5	4.8	0		1.4	1.7	1.8	B	0	0	0	0	0		5.4		Free Agent	8	$0.60 	1
+415	415	Golden, Brittan ARI WR	17.1	4.28						6.3			B				0.9		2.6	7.3	Free Agent	9	$0.60 	1
+416	416	Butler, Brice OAK WR	16.8	1.68	1.3	2	7.9	1.6	3	1	B	0			0	0		0			Free Agent	7	$0.60 	1
+417	417	Coleman, Derrick SEA RB	16.8	1.53	5	0	0	0.9	0	1.1	1.8					B	8	0	0	0	Free Agent	12	$0.60 	1
+418	418	Thompson, Deonte BAL WR	16.6	2.37				7.5	2.6	0	0	B	4.4	0	2.1						Free Agent	8	$0.60 	1
+419	419	Riddick, Theo DET RB	16.1	1.24	0	0	1.7	0	0			2.1	B	0	0	0	1	2.5	1.6	7.2	Free Agent	9	$0.60 	1
+420	420	Pascoe, Bear NYG TE	16	1.07	0	2.2	0.7	0	0	2.4	0.9	0	B	0	0	1	2.1	2.4	2.7	1.6	Free Agent	9	$0.60 	1
+421	421	Maehl, Jeff PHI WR	15.7	1.05	0	0	0	11.8	0	1	0	0	2.9	0	0	B	0	0	0	0	Free Agent	12	$0.60 	1
+422	422	Manningham, Mario SFO WR	15.5	2.58									B	5	1.8	8	0	0	0.7		Free Agent (P)	9	$0.60 	1
+423	423	Gragg, Chris BUF TE	15.3	1.7						0	0	0	0	11.5	0	B		0	3.8	0	Free Agent	12	$0.60 	1
+424	424	Hogan, Chris BUF WR	15.3	1.02	0	0	0	0	2.6	0.7	0	0	0	2.6	5.4	B	0	1.7	0	2.3	Free Agent	12	$0.60 	1
+425	425	Ajirotutu, Seyi SDC WR	14.9	1.15			0	0	0	0	0	B	0	0	5.8	9.1	0	0	0	0	Free Agent	8	$0.60 	1
+426	426	Tanner, Phillip DAL RB	14.9	0.99	1.8	0	0.6	0	0	0.9	7.7	3.9	0	0	B	0	0	0	0	0	Free Agent	11	$0.60 	1
+427	427	Broyles, Ryan DET WR	14.5	2.42			5.9	0	4.2	0	3.1	1.3	B								Free Agent (P)	9	$0.60 	1
+428	428	Hanna, James DAL TE	14.3	0.95	0	4	0	0	0.8	0	0	2.7	3.1	2.6	B	0	0	1.1	0	0	Free Agent	11	$0.60 	1
+429	429	Ford, Chase MIN TE	14	1.75					B				0	0.7	2.1	3	0.7	0	7.5	0	Free Agent	5	$0.60 	1
+430	430	Michael, Christine SEA RB	14	4.67			7							5.9	1.1	B					Just Win Baby - Trade	12	$2.60 	3
+431	431	Burton, Stephen JAC WR	13.8	3.45	0	4	7.7						B	2.1							Free Agent	9	$0.60 	1
+432	432	Ellison, Rhett MIN TE	13.8	1.38	0	0			B	0	0				0	10.1	0	0	0	3.7	Free Agent	5	$0.60 	1
+433	433	Scheffler, Tony FA TE	13.7	2.74	0	0	2	3.2	8.5												Free Agent	-	$0.60 	1
+434	434	Mastrud, Jeron OAK TE	13.3	0.89	5.1	0	0	1.3	0	2.3	B	1.4	0	0	0	1	0	0	0	2.2	Free Agent	7	$0.60 	1
+435	435	Johnson, Will PIT RB	13.2	0.88	0	0	1	0	B	1.2	0	0	0	0	6.6	1.4	0	1.4	0	1.6	Free Agent	5	$0.60 	1
+436	436	Sims, Dion MIA TE	13.2	0.94	0	0	6.6	0	0	B	0	0.9		0	0	1.6	1.3	1.7	1.1	0	Free Agent	6	$0.60 	1
+437	437	Hill, Josh NOS TE	12.8	0.98	0	0	0	0	0	0	B	2.7	0.2	0	6.8	3.1	0	0			Free Agent	7	$0.60 	1
+438	438	Noble, Danny JAC TE	12.7	1.81									B	0	12.7	0	0	0	0	0	Free Agent	9	$0.60 	1
+439	439	Olawale, Jamize OAK RB	12.5	0.83	0	0	0	2.9	3	0	B	0	0	0	0	4.2	0	2	0.4	0	Free Agent	7	$0.60 	1
+440	440	Cox, Michael NYG RB	12.4	0.95	0			0	0	0	5.6	6.3	B	0	0	0	0	0	0	0.5	Free Agent	9	$0.60 	1
+441	441	Goodson, Mike NYJ RB	12.4	6.2					6.2	6.2				B							Free Agent	10	$0.60 	1
+442	442	Hixon, Domenik CAR WR	12.4	0.89		0	1.3	B	0	0	0	0.9	0	1.4	0	0	0	0	0	8.8	Free Agent	4	$0.60 	1
+443	443	Collie, Austin NEP WR	12.3	1.76						4.4	2	0	0	B				1.4	4.5	0	Free Agent	10	$0.60 	1
+444	444	Cribbs, Josh NYJ WR	12.3	2.05							2.5	0	5.3	B	1.3	3.2	0				Free Agent (P)	10	$0.60 	1
+445	445	Smith, Lee BUF TE	12.3	0.82	0	0	0	3.8	0	0	2.8	0	0	0	0.6	B	0	1.7	0	3.4	Free Agent	12	$0.60 	1
+446	446	Herron, Dan IND RB	12	2							0	B	0	6.9	0	5.1	0				Free Agent (P)	8	$0.60 	1
+447	447	Wheaton, Markus PIT WR	11.9	1.08	0	0	0	5.6	B					0	6.3	0	0	0	0	0	davyhouse - Trade	5	$2.20 	4
+448	448	Paulson, David PIT TE	11.7	0.78	0	3.9	1.1	0	B	0	2.7	0	0	0	0	0	0	0	0	4	Free Agent	5	$0.60 	1
+449	449	White, Myles GBP WR	11.6	1.66				B			1.4	6.5	1.3	1.4		0	0	1			Free Agent (P)	4	$0.60 	1
+450	450	Potter, John DET PK	11.5	3.83		1	7	3.5					B								Free Agent	9	$0.60 	1
+451	451	Ballard, Vick IND RB	11.4	11.4	11.4							B									Free Agent (P)	8	$0.60 	1
+452	452	Egnew, Michael MIA TE	11.4	0.81	0	0	1.3	0	0	B	0	2.1	2.3	1.2	0	1	0	0	3.5		Free Agent	6	$0.60 	1
+453	453	Davis, Kellen SEA TE	11.2	0.8		0	4.6	0	0	0	6.6	0	0	0	0	B	0	0	0	0	Free Agent	12	$0.60 	1
+454	454	Lockette, Ricardo SEA WR	11.1	1.59									1	0	3.7	B	4.5	0	0	1.9	Free Agent	12	$0.60 	1
+455	455	Crabtree, Tom TBB TE	10.6	1.51					B	0	2.4	0.5	6.7	0	1	0					Free Agent	5	$0.60 	1
+456	456	Dreessen, Joel DEN TE	10.6	0.88				0	0	0.9	0	8.4	B	0	0	0	0	1.3	0	0	Free Agent (P)	9	$0.60 	1
+457	457	Gray, Cyrus KCC RB	10.5	0.7	2.3	0	0	0	0	0	0.5	0	0	B	0	0	1.3	1.4	3.3	1.7	Free Agent	10	$0.60 	1
+458	458	Jenkins, A.J. KCC WR	10.5	0.7	0	0	1.1	0	0	0	0	0	0	B	0	3.2	5.5	0	0.7	0	Free Agent	10	$0.60 	1
+459	459	Johnson, David PIT TE	10.5	2.1	2.1	0	7.1	1.3	B	0											Free Agent	5	$0.60 	1
+460	460	Lorig, Erik TBB RB	10.5	0.75		0	0.6	3	B	0	0	0.7	3.4	0	0.8	0	0.5	0	0	1.5	Free Agent	5	$0.60 	1
+461	461	James, LaMichael SFO RB	10.3	1.14				0.6	4.4				B	0.2	2	0	0	0	3.1	0	Ryan - Trade	9	$2.40 	2
+462	462	Ta'ufo'ou, Will JAC RB	9.8	0.65	2.1	1.5	1.1	0	1	1.3	0	1.8	B	0	1	0	0	0	0	0	Free Agent	9	$0.60 	1
+463	463	Toon, Nick NOS WR	9.8	1.23	0			2.8	4.5	1.2	B	0	0	0	1.3						Free Agent	7	$0.60 	1
+464	464	Karim, Deji HOU RB	9.5	1.36								B		0	0	0	0	0	3.4	6.1	Free Agent	8	$0.60 	1
+465	465	Moye, Derek PIT WR	9.5	1.36	0	6.6		0	B	0	2.9	0	0								Free Agent	5	$0.60 	1
+466	466	Sanzenbacher, Dane CIN WR	9.4	1.04			0	1.1	0	3.3	1.2	3.8	0	0	0	B					Free Agent	12	$0.60 	1
+467	467	Sudfeld, Zach NYJ TE	9.1	0.7	0		0	0		0	0	2.5	6.6	B	0	0	0	0	0	0	Free Agent	10	$0.60 	1
+468	468	McClain, Le'Ron SDC RB	8.9	0.59	0.4	0	1.4	2	0	2.2	1.3	B	0	0	0	0	0.8	0.8	0	0	Free Agent	8	$0.60 	1
+469	469	Murphy, Louis NYG WR	8.9	0.68	0	0	-1.7	0			0	0	B	0	0	6.9	0	0	1.2	2.5	Free Agent	9	$0.60 	1
+470	470	Thompson, Taylor TEN TE	8.8	0.59	0	0	0	0	0	0	0	B	0	7.4	0	1.4	0	0	0	0	Free Agent	8	$0.60 	1
+471	471	Fiammetta, Tony CHI RB	8.7	0.58	0	0	0	0	0	4	0	B	0	0.9	0	3.8	0	0	0	0	Free Agent	8	$0.60 	1
+472	472	DiMarco, Patrick ATL RB	8.6	0.66			0	0	2.2	B	0	2.3	0	0	0	0	1	1.2	1.2	0.7	Free Agent	6	$0.60 	1
+473	473	Mulligan, Matthew NEP TE	8.6	0.61		0	0	6.6	0	0	0	0	0	B	0	0	0	2	0	0	Free Agent	10	$0.60 	1
+474	474	Simms, Matt NYJ QB	8.6	2.87								4		B	8.8		-4.2				Free Agent	10	$0.60 	1
+475	475	Allen, Dwayne IND TE	8.5	8.5	8.5							B									Free Agent	8	$0.60 	1
+476	476	Gray, MarQueis CLE TE	8.4	0.76			0	0	0	1.7	0.2	1	0.3	B			0	0.8	4.4	0	Free Agent	10	$0.60 	1
+477	477	Green, Alex NYJ RB	8.3	0.75	0		2.4	1.1	0	0	0	4.8		B			0	0	0	0	Free Agent	10	$0.60 	1
+478	478	Felton, Jerome MIN RB	8.2	0.68				0	B	0	0.6	0	2.1	0	2.8	1.7	1	0	0	0	Free Agent	5	$0.60 	1
+479	479	Stewart, Jeremy OAK RB	8.2	0.68	0	0	0	1	0.6	0	B	0	6.6	0	0	0	0				Free Agent	7	$0.60 	1
+480	480	Edwards, Patrick DET WR	8.1	2.02	5.5	0			2.6	0			B								Free Agent	9	$0.60 	1
+481	481	Paul, Niles WAS TE	8.1	0.58	0	0	0	3.5	B	0	0	0	1.1	0	0	0		3.5	0	0	Free Agent	5	$0.60 	1
+482	483	Moore, Marlon MIA WR	7.8	0.6	0	1.1	0		0	B		0		0	0	3.5	0	0	2.1	0	Free Agent	6	$0.60 	1
+483	484	Spaeth, Matt PIT TE	7.6	2.53					B									0	0	7.6	Free Agent	5	$0.60 	1
+484	485	Cadet, Travaris NOS RB	7.5	0.58	0	0	0	0	0	6.8	B		0	0	0	0.7	0	0	0		Free Agent	7	$0.60 	1
+485	486	Smith, Alex CIN TE	7.5	0.5	0	0	0	0	0	0	0	0	0	0.8	6.7	B	0	0	0	0	Free Agent (P)	12	$0.60 	1
+486	487	Conner, John NYG RB	7.1	0.59				0	0	0	3.7	2.2	B	0	1.2	0	0	0	0	0	Free Agent	9	$0.60 	1
+487	488	Mooney, Collin TEN RB	7.1	0.59	0	1	0	0.8	0	0	0	B	3.2	0	0	1.6	0.5				Free Agent (Q)	8	$0.60 	1
+488	489	Page, Eric TBB WR	7.1	0.47	0	0	8	0	B	0	0	-0.7	0	0	0	0	0	0.2	-3	2.6	Free Agent	5	$0.60 	1
+489	490	Jean, Lestar HOU WR	7	0.7	0	0				2.9	4.1	B	0	0	0	0			0	0	Free Agent (I)	8	$0.60 	1
+490	491	Reisner, Allen JAC TE	7	1.4	5.1	1.9	0	0	0				B								Free Agent	9	$0.60 	1
+491	492	Taylor, Ryan GBP TE	7	0.54	0	0	2.6	B	0	0			0	1.4	0	0	1.3	1.7	0	0	Free Agent	4	$0.60 	1
+492	493	Holliday, Trindon DEN WR	6.9	0.49	0	6	0	6	0	0	-3	0.9	B	0	0	-3	0		0	0	Free Agent	9	$0.60 	1
+493	494	Webb, Joe MIN WR	6.8	0.45	0	0	0	0	B	4.9	0	0	0	0	1.9	0	0	0	0	0	Free Agent	5	$0.60 	1
+494	495	Anderson, C.J. DEN RB	6.7	1.68								4	B	0	0	2.7					Free Agent	9	$0.60 	1
+495	496	Taylor, Tyrod BAL QB	6.6	2.2								B		2.5		3				1.1	Free Agent	8	$0.60 	1
+496	497	Green, Virgil DEN TE	6.5	0.43	0	1	0.8	1	0	0	0	0	B	0.9	0	0.8	0.7	0	0	1.3	Free Agent	9	$0.60 	1
+497	498	Byham, Nate TBB TE	6.3	1.57	0.6	4.4	1.3	0	B												Free Agent (P)	5	$0.60 	1
+498	499	Demps, Jeff TBB RB	6.2	3.1				3.4	B	2.8											Free Agent	5	$0.60 	1
+499	500	Casey, James PHI TE	6.1	0.44	0	0	0	2.2	0		0	2.1	0	1.8	0	B	0	0	0	0	Free Agent	12	$0.60 	1
+500	501	Cooper, Josh CLE WR																						
